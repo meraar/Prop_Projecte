@@ -1,0 +1,1 @@
+javac -d bin/ prop/*.java Drivers/*.java prop/Domini/*.java prop/Persistencia/*.java prop/Presentacio/*.java prop/Presentacio/utils/table/*.java

@@ -1,0 +1,82 @@
+*********************************************************************
+* Benvingut! Estas al Driver_CtrlAtributs.
+*********************************************************************
+Prova de les constructores
+*	1. Constructora amb control de persistencia
+Correcto
+Introduce el path del fichero 
+Prova del generador d'atributs:
+EntregaTreb
+NotaFinal
+NotaParcial1
+Nom
+Atributs generats
+Prova de la definicio de tipus d'atributs
+Introdueix el tipus de l'atribut: Nom
+(float/String/boolean)
+ 
+Introdueix el tipus de l'atribut: NotaParcial1
+(float/String/boolean)
+ 
+TIPUS D'ATRIBUT INCORRECTE
+Introdueix de nou el tipus de l'atribut(float/String/boolean): 
+Introdueix el tipus de l'atribut: EntregaTreb
+(float/String/boolean)
+ 
+Introdueix el tipus de l'atribut: NotaFinal
+(float/String/boolean)
+ 
+Llista d'atributs NOM i TIPUS
+EntregaTreb boolean
+NotaFinal float
+NotaParcial1 float
+Nom String
+Prova de la generacio del preprocés
+Introdueix els valors possibles per l'atribut Nom separats per intro i END per indicar que no en queden:
+ 
+ 
+ 
+ 
+ 
+Introdueix el nom de l'interval a afegir per l'atribut NotaParcial1:
+ 
+Introdueix el limit superior:
+ 
+Introdueix el limit inferior:
+ 
+Valor <= limit superior(true/false):
+ 
+Valor >= limit inferior(true/false):
+ 
+Si no vols afegir un nou interval escriu END, en cas contrari introdueix el seu nom:
+ 
+Introdueix el valor a considerar fals i despres el cert per l'interval EntregaTreb:
+ 
+ 
+Introdueix el nom de l'interval a afegir per l'atribut NotaFinal:
+ 
+Introdueix el limit superior:
+ 
+Introdueix el limit inferior:
+ 
+Valor <= limit superior(true/false):
+ 
+Valor >= limit inferior(true/false):
+ 
+Si no vols afegir un nou interval escriu END, en cas contrari introdueix el seu nom:
+ 
+Introdueix el limit superior:
+ 
+Introdueix el limit inferior:
+ 
+Valor <= limit superior(true/false):
+ 
+Valor >= limit inferior(true/false):
+ 
+Si no vols afegir un nou interval escriu END, en cas contrari introdueix el seu nom:
+ 
+Preproces generat
+EntregaTreb [Valor fals: No valor cert: Si]
+NotaFinal [Nom=SuspesF Limit superior=5.0 Limit inferior=0.0 Limit superior inclos=false Limit inferior inclos=true, Nom=AprovatF Limit superior=10.0 Limit inferior=5.0 Limit superior inclos=true Limit inferior inclos=true]
+NotaParcial1 [Nom=Aprovat Limit superior=10.0 Limit inferior=5.0 Limit superior inclos=true Limit inferior inclos=true]
+Nom [Miquel, Carles, Pere, Meraj]

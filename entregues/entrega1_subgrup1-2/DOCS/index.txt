@@ -1,0 +1,13 @@
+Directori de documents
+Conte tots els documents necessaris per a l'entrega.
+
+Estructura i descripcio dels fitxers:
+ - Carpeta javadoc/: Aqui es troben els fitxers javadoc autogenerats que contenen les descripcions de les classes
+ - documentacio.pdf: fitxer que conte la documentacio necessaria per la primera entrega amb la descripcio de cada cas d'us
+ - casos_dus.png: diagrama de casos d'us
+ - diagrama_classes.png: diagrama de classes
+ - diagrama_classes_ctrl.png: diagrama de classes de les controladores
+
+
+Instruccions per obrir el javadoc:
+ - Obrir el fitxer index.html de la carpeta javadoc amb qualsevol navegador

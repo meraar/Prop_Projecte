@@ -1,0 +1,278 @@
+Inicialitzant la regla d'associacio amb la constructora per defecte...
+----- [Driver Regla d'associacio] Test constructora per defecte. -----
+--- Crea una regla d'associacio buida.
+Introdueix l'identificador de la regla:  
+Introdueix la confianca de la regla:  
+Introdueix el suport de la regla:  
+Introdueix el nombre de condicions:  
+Introdueix el nom de la condicio 1: 
+Introdueix el valor de la condicio 1: 
+Introdueix el nom de la condicio 2: 
+Introdueix el valor de la condicio 2: 
+Introdueix el nom del consquent de la regla:  
+Introdueix el valor del consquent de la regla:  
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test setter identificador de la regla d'associacio
+[2] Test getter identificador de la regla d'associacio
+[3] Test setter confianca de la regla d'associacio
+[4] Test getter confianca de la regla d'associacio
+[5] Test setter suport de la regla d'associacio
+[6] Test getter suport de la regla d'associacio
+[7] Test setter del llistat de condicions de la regla d'associacio
+[8] Test getter del llistat de condicions de la regla d'associacio
+[9] Test setter del consequent de la regla d'associacios
+[10] Test getter del consequent de la regla d'associacios
+[11] Test es compleix la regla d'associacio
+
+Especifica l'opcio a provar: 
+----- [Driver Regla d'associacio] Test setter identificador. -----
+--- Estableix l'identificador de la regla d'associacio.
+Introdueix el nou identificador: 
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test setter identificador de la regla d'associacio
+[2] Test getter identificador de la regla d'associacio
+[3] Test setter confianca de la regla d'associacio
+[4] Test getter confianca de la regla d'associacio
+[5] Test setter suport de la regla d'associacio
+[6] Test getter suport de la regla d'associacio
+[7] Test setter del llistat de condicions de la regla d'associacio
+[8] Test getter del llistat de condicions de la regla d'associacio
+[9] Test setter del consequent de la regla d'associacios
+[10] Test getter del consequent de la regla d'associacios
+[11] Test es compleix la regla d'associacio
+
+Especifica l'opcio a provar: 
+----- [Driver Regla d'associacio] Test getter identificador. -----
+--- Consulta l'identificador de la regla d'associacio.
+Identificador de la regla d'associacio: 2
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test setter identificador de la regla d'associacio
+[2] Test getter identificador de la regla d'associacio
+[3] Test setter confianca de la regla d'associacio
+[4] Test getter confianca de la regla d'associacio
+[5] Test setter suport de la regla d'associacio
+[6] Test getter suport de la regla d'associacio
+[7] Test setter del llistat de condicions de la regla d'associacio
+[8] Test getter del llistat de condicions de la regla d'associacio
+[9] Test setter del consequent de la regla d'associacios
+[10] Test getter del consequent de la regla d'associacios
+[11] Test es compleix la regla d'associacio
+
+Especifica l'opcio a provar: 
+----- [Driver Regla d'associacio] Test setter confianca. -----
+--- Estableix la confiança de la regla d'associacio.
+Introdueix la nova confianca: 
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test setter identificador de la regla d'associacio
+[2] Test getter identificador de la regla d'associacio
+[3] Test setter confianca de la regla d'associacio
+[4] Test getter confianca de la regla d'associacio
+[5] Test setter suport de la regla d'associacio
+[6] Test getter suport de la regla d'associacio
+[7] Test setter del llistat de condicions de la regla d'associacio
+[8] Test getter del llistat de condicions de la regla d'associacio
+[9] Test setter del consequent de la regla d'associacios
+[10] Test getter del consequent de la regla d'associacios
+[11] Test es compleix la regla d'associacio
+
+Especifica l'opcio a provar: 
+----- [Driver Regla d'associacio] Test getter confianca. -----
+--- Consulta la confinaca de la regla d'associacio.
+Confianca de la regla d'associacio: 0.1
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test setter identificador de la regla d'associacio
+[2] Test getter identificador de la regla d'associacio
+[3] Test setter confianca de la regla d'associacio
+[4] Test getter confianca de la regla d'associacio
+[5] Test setter suport de la regla d'associacio
+[6] Test getter suport de la regla d'associacio
+[7] Test setter del llistat de condicions de la regla d'associacio
+[8] Test getter del llistat de condicions de la regla d'associacio
+[9] Test setter del consequent de la regla d'associacios
+[10] Test getter del consequent de la regla d'associacios
+[11] Test es compleix la regla d'associacio
+
+Especifica l'opcio a provar: 
+----- [Driver Regla d'associacio] Test setter suport. -----
+--- Estableix el suport de la regla d'associacio.
+Introdueix el nou suport: 
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test setter identificador de la regla d'associacio
+[2] Test getter identificador de la regla d'associacio
+[3] Test setter confianca de la regla d'associacio
+[4] Test getter confianca de la regla d'associacio
+[5] Test setter suport de la regla d'associacio
+[6] Test getter suport de la regla d'associacio
+[7] Test setter del llistat de condicions de la regla d'associacio
+[8] Test getter del llistat de condicions de la regla d'associacio
+[9] Test setter del consequent de la regla d'associacios
+[10] Test getter del consequent de la regla d'associacios
+[11] Test es compleix la regla d'associacio
+
+Especifica l'opcio a provar: 
+----- [Driver Regla d'associacio] Test getter suport. -----
+--- Consulta el suport de la regla d'associacio.
+Suport de la regla d'associacio: 0.2
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test setter identificador de la regla d'associacio
+[2] Test getter identificador de la regla d'associacio
+[3] Test setter confianca de la regla d'associacio
+[4] Test getter confianca de la regla d'associacio
+[5] Test setter suport de la regla d'associacio
+[6] Test getter suport de la regla d'associacio
+[7] Test setter del llistat de condicions de la regla d'associacio
+[8] Test getter del llistat de condicions de la regla d'associacio
+[9] Test setter del consequent de la regla d'associacios
+[10] Test getter del consequent de la regla d'associacios
+[11] Test es compleix la regla d'associacio
+
+Especifica l'opcio a provar: 
+----- [Driver Regla d'associacio] Test setter del llistat de condicions. -----
+--- Estableix el llistat de condicions de la regla d'associacio.
+Introdueix quantes condicions vols: 
+Introdueix el nom de la condicio 1: 
+Introdueix el valor de la condicio 1: 
+Introdueix el nom de la condicio 2: 
+Introdueix el valor de la condicio 2: 
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test setter identificador de la regla d'associacio
+[2] Test getter identificador de la regla d'associacio
+[3] Test setter confianca de la regla d'associacio
+[4] Test getter confianca de la regla d'associacio
+[5] Test setter suport de la regla d'associacio
+[6] Test getter suport de la regla d'associacio
+[7] Test setter del llistat de condicions de la regla d'associacio
+[8] Test getter del llistat de condicions de la regla d'associacio
+[9] Test setter del consequent de la regla d'associacios
+[10] Test getter del consequent de la regla d'associacios
+[11] Test es compleix la regla d'associacio
+
+Especifica l'opcio a provar: 
+----- [Driver Regla d'associacio] Test getter del llistat de condicions. -----
+--- Consulta el llistat de condicions de la regla d'associacio.
+ - producte: olives
+ - snack: patates
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test setter identificador de la regla d'associacio
+[2] Test getter identificador de la regla d'associacio
+[3] Test setter confianca de la regla d'associacio
+[4] Test getter confianca de la regla d'associacio
+[5] Test setter suport de la regla d'associacio
+[6] Test getter suport de la regla d'associacio
+[7] Test setter del llistat de condicions de la regla d'associacio
+[8] Test getter del llistat de condicions de la regla d'associacio
+[9] Test setter del consequent de la regla d'associacios
+[10] Test getter del consequent de la regla d'associacios
+[11] Test es compleix la regla d'associacio
+
+Especifica l'opcio a provar: 
+----- [Driver Regla d'associacio] Test setter del consquent de la regla. -----
+--- Estableix el consequent de la regla d'associacio.
+Introdueix el nom de l'atribut consequent: 
+Introdueix el valor de l'atribut consequent: 
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test setter identificador de la regla d'associacio
+[2] Test getter identificador de la regla d'associacio
+[3] Test setter confianca de la regla d'associacio
+[4] Test getter confianca de la regla d'associacio
+[5] Test setter suport de la regla d'associacio
+[6] Test getter suport de la regla d'associacio
+[7] Test setter del llistat de condicions de la regla d'associacio
+[8] Test getter del llistat de condicions de la regla d'associacio
+[9] Test setter del consequent de la regla d'associacios
+[10] Test getter del consequent de la regla d'associacios
+[11] Test es compleix la regla d'associacio
+
+Especifica l'opcio a provar: 
+----- [Driver Regla d'associacio] Test getter del consequent de la regla. -----
+--- Consulta el consequent de la regla d'associacio.
+beguda: cervesa
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test setter identificador de la regla d'associacio
+[2] Test getter identificador de la regla d'associacio
+[3] Test setter confianca de la regla d'associacio
+[4] Test getter confianca de la regla d'associacio
+[5] Test setter suport de la regla d'associacio
+[6] Test getter suport de la regla d'associacio
+[7] Test setter del llistat de condicions de la regla d'associacio
+[8] Test getter del llistat de condicions de la regla d'associacio
+[9] Test setter del consequent de la regla d'associacios
+[10] Test getter del consequent de la regla d'associacios
+[11] Test es compleix la regla d'associacio
+
+Especifica l'opcio a provar: 
+----- [Driver Regla d'associacio] Test es compleix la regla. -----
+--- Comprova si tots els atributs d'una regla es troben al registre.
+Introdueix l'identificador del registre: 
+Introdueix el nombre d'atributs que conte el registre: 
+Introdueix el nom de l'atribut 1: 
+Introdueix el valor de l'atribut 1: 
+Introdueix el nom de l'atribut 2: 
+Introdueix el valor de l'atribut 2: 
+Introdueix el nom de l'atribut 3: 
+Introdueix el valor de l'atribut 3: 
+Introdueix el nom de l'atribut 4: 
+Introdueix el valor de l'atribut 4: 
+SI compleix la regla.
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test setter identificador de la regla d'associacio
+[2] Test getter identificador de la regla d'associacio
+[3] Test setter confianca de la regla d'associacio
+[4] Test getter confianca de la regla d'associacio
+[5] Test setter suport de la regla d'associacio
+[6] Test getter suport de la regla d'associacio
+[7] Test setter del llistat de condicions de la regla d'associacio
+[8] Test getter del llistat de condicions de la regla d'associacio
+[9] Test setter del consequent de la regla d'associacios
+[10] Test getter del consequent de la regla d'associacios
+[11] Test es compleix la regla d'associacio
+
+Especifica l'opcio a provar: 

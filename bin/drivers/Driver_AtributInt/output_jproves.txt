@@ -1,0 +1,281 @@
+*********************************************************************
+* Benvingut! Estas al Driver_AtributInt. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Consultar nom de l'atribut
+*	3. Consultar tipus de l'atribut
+*	4. Assignar nom a l'atribut
+*	5. Assignar tipus a l'atribut
+*	6. Provar si un valor forma part d'un atribut(validarValor)
+*	7. Provar la obtencio del nom de l'interval al que pertany un valor(processarValor)
+*	8. Provar d'afegir un interval dins d'un atribut
+*	9. Provar d'afegir una llista d'intervals dins d'un atribut
+*	10.Consultar la llista d'intervals d'un atribut
+*********************************************************************
+ 
+1
+Prova de les constructores
+*Constructora amb nom i tipus
+Indiqui el nom de l'atributInt a crear: 
+Indiqui el tipus de l'atributInt a crear 
+ * ERROR: Tipus d'atribut invalid
+*********************************************************************
+* Benvingut! Estas al Driver_AtributInt. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Consultar nom de l'atribut
+*	3. Consultar tipus de l'atribut
+*	4. Assignar nom a l'atribut
+*	5. Assignar tipus a l'atribut
+*	6. Provar si un valor forma part d'un atribut(validarValor)
+*	7. Provar la obtencio del nom de l'interval al que pertany un valor(processarValor)
+*	8. Provar d'afegir un interval dins d'un atribut
+*	9. Provar d'afegir una llista d'intervals dins d'un atribut
+*	10.Consultar la llista d'intervals d'un atribut
+*********************************************************************
+Selecciona la nova funcionalitat a provar 
+Prova de les constructores
+*Constructora amb nom i tipus
+Indiqui el nom de l'atributInt a crear: 
+Indiqui el tipus de l'atributInt a crear 
+ * ERROR: Tipus d'atribut invalid
+*********************************************************************
+* Benvingut! Estas al Driver_AtributInt. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Consultar nom de l'atribut
+*	3. Consultar tipus de l'atribut
+*	4. Assignar nom a l'atribut
+*	5. Assignar tipus a l'atribut
+*	6. Provar si un valor forma part d'un atribut(validarValor)
+*	7. Provar la obtencio del nom de l'interval al que pertany un valor(processarValor)
+*	8. Provar d'afegir un interval dins d'un atribut
+*	9. Provar d'afegir una llista d'intervals dins d'un atribut
+*	10.Consultar la llista d'intervals d'un atribut
+*********************************************************************
+Selecciona la nova funcionalitat a provar 
+Prova de les constructores
+*Constructora amb nom i tipus
+Indiqui el nom de l'atributInt a crear: 
+Indiqui el tipus de l'atributInt a crear 
+Dades introduides -> Nom = atributint tipus= float
+Dades de l'atribut -> Nom = atributint tipus= float
+*********************************************************************
+* Benvingut! Estas al Driver_AtributInt. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Consultar nom de l'atribut
+*	3. Consultar tipus de l'atribut
+*	4. Assignar nom a l'atribut
+*	5. Assignar tipus a l'atribut
+*	6. Provar si un valor forma part d'un atribut(validarValor)
+*	7. Provar la obtencio del nom de l'interval al que pertany un valor(processarValor)
+*	8. Provar d'afegir un interval dins d'un atribut
+*	9. Provar d'afegir una llista d'intervals dins d'un atribut
+*	10.Consultar la llista d'intervals d'un atribut
+*********************************************************************
+Selecciona la nova funcionalitat a provar 
+Prova de getNom:
+Indiqui el nom de l'atributBool a crear: 
+El nom de l'atribut introduit es: atributintnom i el nom de l'atribut es:atributintnom
+*********************************************************************
+* Benvingut! Estas al Driver_AtributInt. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Consultar nom de l'atribut
+*	3. Consultar tipus de l'atribut
+*	4. Assignar nom a l'atribut
+*	5. Assignar tipus a l'atribut
+*	6. Provar si un valor forma part d'un atribut(validarValor)
+*	7. Provar la obtencio del nom de l'interval al que pertany un valor(processarValor)
+*	8. Provar d'afegir un interval dins d'un atribut
+*	9. Provar d'afegir una llista d'intervals dins d'un atribut
+*	10.Consultar la llista d'intervals d'un atribut
+*********************************************************************
+Selecciona la nova funcionalitat a provar 
+Prova de getTipus
+Es crea un AtributBool de tipus float:
+El tipus de l'atribut introduit es: float
+*********************************************************************
+* Benvingut! Estas al Driver_AtributInt. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Consultar nom de l'atribut
+*	3. Consultar tipus de l'atribut
+*	4. Assignar nom a l'atribut
+*	5. Assignar tipus a l'atribut
+*	6. Provar si un valor forma part d'un atribut(validarValor)
+*	7. Provar la obtencio del nom de l'interval al que pertany un valor(processarValor)
+*	8. Provar d'afegir un interval dins d'un atribut
+*	9. Provar d'afegir una llista d'intervals dins d'un atribut
+*	10.Consultar la llista d'intervals d'un atribut
+*********************************************************************
+Selecciona la nova funcionalitat a provar 
+Prova de setNom:
+Indiqui el nom de l'atributInt a crear de tipus float: 
+El nom de l'atribut introduit es: horesEsport i el nom de l'atribut es:horesEsport
+*********************************************************************
+* Benvingut! Estas al Driver_AtributInt. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Consultar nom de l'atribut
+*	3. Consultar tipus de l'atribut
+*	4. Assignar nom a l'atribut
+*	5. Assignar tipus a l'atribut
+*	6. Provar si un valor forma part d'un atribut(validarValor)
+*	7. Provar la obtencio del nom de l'interval al que pertany un valor(processarValor)
+*	8. Provar d'afegir un interval dins d'un atribut
+*	9. Provar d'afegir una llista d'intervals dins d'un atribut
+*	10.Consultar la llista d'intervals d'un atribut
+*********************************************************************
+Selecciona la nova funcionalitat a provar 
+Prova de setTipus:
+Es crea un AtributInt on s'ha d'introduir el tipus Float:
+El tipus de l'atribut introduit es: float
+*********************************************************************
+* Benvingut! Estas al Driver_AtributInt. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Consultar nom de l'atribut
+*	3. Consultar tipus de l'atribut
+*	4. Assignar nom a l'atribut
+*	5. Assignar tipus a l'atribut
+*	6. Provar si un valor forma part d'un atribut(validarValor)
+*	7. Provar la obtencio del nom de l'interval al que pertany un valor(processarValor)
+*	8. Provar d'afegir un interval dins d'un atribut
+*	9. Provar d'afegir una llista d'intervals dins d'un atribut
+*	10.Consultar la llista d'intervals d'un atribut
+*********************************************************************
+Selecciona la nova funcionalitat a provar 
+Prova de validarValor:
+Es creara un atributInt anomenat atr amb interval entre 5 i 10 anomenat aprovat 
+Introdueix un valor per veure si esta dins l'interval:  
+El valor introduit esta dins l'interval aprovat(5<=valor<=10)? false
+*********************************************************************
+* Benvingut! Estas al Driver_AtributInt. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Consultar nom de l'atribut
+*	3. Consultar tipus de l'atribut
+*	4. Assignar nom a l'atribut
+*	5. Assignar tipus a l'atribut
+*	6. Provar si un valor forma part d'un atribut(validarValor)
+*	7. Provar la obtencio del nom de l'interval al que pertany un valor(processarValor)
+*	8. Provar d'afegir un interval dins d'un atribut
+*	9. Provar d'afegir una llista d'intervals dins d'un atribut
+*	10.Consultar la llista d'intervals d'un atribut
+*********************************************************************
+Selecciona la nova funcionalitat a provar 
+Prova de validarValor:
+Es creara un atributInt anomenat atr amb interval entre 5 i 10 anomenat aprovat 
+Introdueix un valor per veure si esta dins l'interval:  
+El valor introduit esta dins l'interval aprovat(5<=valor<=10)? true
+*********************************************************************
+* Benvingut! Estas al Driver_AtributInt. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Consultar nom de l'atribut
+*	3. Consultar tipus de l'atribut
+*	4. Assignar nom a l'atribut
+*	5. Assignar tipus a l'atribut
+*	6. Provar si un valor forma part d'un atribut(validarValor)
+*	7. Provar la obtencio del nom de l'interval al que pertany un valor(processarValor)
+*	8. Provar d'afegir un interval dins d'un atribut
+*	9. Provar d'afegir una llista d'intervals dins d'un atribut
+*	10.Consultar la llista d'intervals d'un atribut
+*********************************************************************
+Selecciona la nova funcionalitat a provar 
+Prova de processar:
+Es creara un atributInt anomenat atr amb interval entre 5 i 10 anomenat aprovat 
+Introduim un valor entre 5 i 10 per veure el nom de l'interval:  
+ * ERROR: L'atribut no pertany a cap interval
+*********************************************************************
+* Benvingut! Estas al Driver_AtributInt. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Consultar nom de l'atribut
+*	3. Consultar tipus de l'atribut
+*	4. Assignar nom a l'atribut
+*	5. Assignar tipus a l'atribut
+*	6. Provar si un valor forma part d'un atribut(validarValor)
+*	7. Provar la obtencio del nom de l'interval al que pertany un valor(processarValor)
+*	8. Provar d'afegir un interval dins d'un atribut
+*	9. Provar d'afegir una llista d'intervals dins d'un atribut
+*	10.Consultar la llista d'intervals d'un atribut
+*********************************************************************
+Selecciona la nova funcionalitat a provar 
+Prova de processar:
+Es creara un atributInt anomenat atr amb interval entre 5 i 10 anomenat aprovat 
+Introduim un valor entre 5 i 10 per veure el nom de l'interval:  
+El valor introduit esta dins l'interval anomentat: aprovat
+*********************************************************************
+* Benvingut! Estas al Driver_AtributInt. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Consultar nom de l'atribut
+*	3. Consultar tipus de l'atribut
+*	4. Assignar nom a l'atribut
+*	5. Assignar tipus a l'atribut
+*	6. Provar si un valor forma part d'un atribut(validarValor)
+*	7. Provar la obtencio del nom de l'interval al que pertany un valor(processarValor)
+*	8. Provar d'afegir un interval dins d'un atribut
+*	9. Provar d'afegir una llista d'intervals dins d'un atribut
+*	10.Consultar la llista d'intervals d'un atribut
+*********************************************************************
+Selecciona la nova funcionalitat a provar 
+Prova d'afegir interval:
+Es creara un atributInt anomenat atr de tipus float 
+Es creara uncinterval per atr anomenat aprovat 
+L'interval afegit te per nom, limit inferior, limit superior, interval tancat per sobre i interval tancat per sota: aprovat 10.0 5.0 true true
+*********************************************************************
+* Benvingut! Estas al Driver_AtributInt. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Consultar nom de l'atribut
+*	3. Consultar tipus de l'atribut
+*	4. Assignar nom a l'atribut
+*	5. Assignar tipus a l'atribut
+*	6. Provar si un valor forma part d'un atribut(validarValor)
+*	7. Provar la obtencio del nom de l'interval al que pertany un valor(processarValor)
+*	8. Provar d'afegir un interval dins d'un atribut
+*	9. Provar d'afegir una llista d'intervals dins d'un atribut
+*	10.Consultar la llista d'intervals d'un atribut
+*********************************************************************
+Selecciona la nova funcionalitat a provar 
+Prova d'afegir llista d'intervals:
+Es creara un atributInt anomenat atr amb interval entre 5 i 10 anomenat aprovat i un suspes entre 0 i 5 sense incloure aquest ultim
+Els intervals afegits son: aprovat i tambe suspes
+*********************************************************************
+* Benvingut! Estas al Driver_AtributInt. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Consultar nom de l'atribut
+*	3. Consultar tipus de l'atribut
+*	4. Assignar nom a l'atribut
+*	5. Assignar tipus a l'atribut
+*	6. Provar si un valor forma part d'un atribut(validarValor)
+*	7. Provar la obtencio del nom de l'interval al que pertany un valor(processarValor)
+*	8. Provar d'afegir un interval dins d'un atribut
+*	9. Provar d'afegir una llista d'intervals dins d'un atribut
+*	10.Consultar la llista d'intervals d'un atribut
+*********************************************************************
+Selecciona la nova funcionalitat a provar 
+Prova d'obtenir llista d'intervals:
+Es creara un atributInt anomenat atr amb interval entre 5 i 10 anomenat aprovat i un suspes entre 0 i 5 sense incloure aquest ultim
+El primer interval afegit te per nom, limit inferior, limit superior, interval tancat per sobre i interval tancat per sota: aprovat 10.0 5.0 true true
+El segon interval afegit te per nom, limit inferior, limit superior, interval tancat per sobre i interval tancat per sota: suspes 5.0 0.0 false true
+*********************************************************************
+* Benvingut! Estas al Driver_AtributInt. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Consultar nom de l'atribut
+*	3. Consultar tipus de l'atribut
+*	4. Assignar nom a l'atribut
+*	5. Assignar tipus a l'atribut
+*	6. Provar si un valor forma part d'un atribut(validarValor)
+*	7. Provar la obtencio del nom de l'interval al que pertany un valor(processarValor)
+*	8. Provar d'afegir un interval dins d'un atribut
+*	9. Provar d'afegir una llista d'intervals dins d'un atribut
+*	10.Consultar la llista d'intervals d'un atribut
+*********************************************************************
+Selecciona la nova funcionalitat a provar 

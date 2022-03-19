@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="prop.Presentacio.MenuNavegacio">
+  <grid id="27dc6" binding="mainPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="500" height="103"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <grid id="2bee5" class="javax.swing.JMenuBar" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="0">
+        <constraints border-constraint="Center"/>
+        <properties>
+          <enabled value="true"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <grid id="c8e0f" class="javax.swing.JMenu" binding="MenuInici" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+            <constraints/>
+            <properties>
+              <enabled value="true"/>
+              <text value="Inici"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <component id="8abd0" class="javax.swing.JMenuItem" binding="paginaInci">
+                <constraints/>
+                <properties>
+                  <text value="Pàgina d'Inici"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <grid id="6693a" class="javax.swing.JMenu" binding="menuArxiu" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+            <constraints/>
+            <properties>
+              <enabled value="true"/>
+              <text value="Arxiu"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <grid id="f7eef" class="javax.swing.JMenu" binding="menuImportar" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+                <constraints/>
+                <properties>
+                  <text value="Importar"/>
+                </properties>
+                <border type="none"/>
+                <children>
+                  <component id="a5922" class="javax.swing.JMenuItem" binding="itemImportarRegistres">
+                    <constraints/>
+                    <properties>
+                      <text value="Importar registres"/>
+                    </properties>
+                  </component>
+                  <component id="834b9" class="javax.swing.JMenuItem" binding="itemImportarRegles">
+                    <constraints/>
+                    <properties>
+                      <text value="Importar regles"/>
+                    </properties>
+                  </component>
+                </children>
+              </grid>
+              <grid id="191ca" class="javax.swing.JMenu" binding="menuExportar" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+                <constraints/>
+                <properties>
+                  <text value="Exportar"/>
+                </properties>
+                <border type="none"/>
+                <children>
+                  <component id="307d0" class="javax.swing.JMenuItem" binding="itemExportarRegistres">
+                    <constraints/>
+                    <properties>
+                      <text value="Exportar registres"/>
+                    </properties>
+                  </component>
+                  <component id="58ba9" class="javax.swing.JMenuItem" binding="itemExportarRegles">
+                    <constraints/>
+                    <properties>
+                      <text value="Exportar regles"/>
+                    </properties>
+                  </component>
+                </children>
+              </grid>
+            </children>
+          </grid>
+          <grid id="2808" class="javax.swing.JMenu" binding="menuPreproces" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+            <constraints/>
+            <properties>
+              <text value="Preprocés de dades"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <component id="83a81" class="javax.swing.JMenuItem" binding="itemCarregarArxiuPreproces">
+                <constraints/>
+                <properties>
+                  <text value="Carregar arxiu de dades"/>
+                </properties>
+              </component>
+              <component id="43aeb" class="javax.swing.JMenuItem" binding="itemConsultarRegistres">
+                <constraints/>
+                <properties>
+                  <text value="Consultar registres"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <grid id="b49ea" class="javax.swing.JMenu" binding="menuGestioRegles" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+            <constraints/>
+            <properties>
+              <text value="Gestió de regles"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <component id="5ee98" class="javax.swing.JMenuItem" binding="itemGenerarRegles">
+                <constraints/>
+                <properties>
+                  <enabled value="true"/>
+                  <text value="Generar regles"/>
+                </properties>
+              </component>
+              <component id="389a4" class="javax.swing.JMenuItem" binding="itemValidarRegles">
+                <constraints/>
+                <properties>
+                  <armed value="false"/>
+                  <enabled value="true"/>
+                  <text value="Validar regles"/>
+                </properties>
+              </component>
+              <component id="47f6b" class="javax.swing.JSeparator">
+                <constraints/>
+                <properties/>
+              </component>
+              <grid id="1094a" class="javax.swing.JMenu" binding="itemConsultar" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+                <constraints/>
+                <properties>
+                  <text value="Consultar regles"/>
+                </properties>
+                <border type="none"/>
+                <children>
+                  <component id="4982d" class="javax.swing.JMenuItem" binding="ConsultaSupConf">
+                    <constraints/>
+                    <properties>
+                      <enabled value="true"/>
+                      <text value="Per suport, confiança i nombre de condicions"/>
+                    </properties>
+                  </component>
+                  <component id="5151a" class="javax.swing.JMenuItem" binding="ConsultarperCond">
+                    <constraints/>
+                    <properties>
+                      <armed value="false"/>
+                      <enabled value="true"/>
+                      <text value="Per condició"/>
+                    </properties>
+                  </component>
+                  <component id="68eb1" class="javax.swing.JMenuItem" binding="ConsultaperConseq">
+                    <constraints/>
+                    <properties>
+                      <text value="Per conseqüent"/>
+                    </properties>
+                  </component>
+                </children>
+              </grid>
+            </children>
+          </grid>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>

@@ -1,0 +1,4 @@
+Carpeta de fonts.
+A la carpeta prop es troben totes les fonts del programa, dividides en les tres capes: Domini, Presentacio i Persistencia.
+
+Els fitxers Makefile i make.bat conte les comandes necessaries per compilar el projecte.

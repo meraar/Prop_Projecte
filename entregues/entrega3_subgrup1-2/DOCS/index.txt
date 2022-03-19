@@ -1,0 +1,7 @@
+Carpeta de documentacio.
+
+A la carpeta javadoc podem trobar els javadoc generats pel nostre projecte.
+Per obrir el javadoc, obrir el arxiu javadoc/index.html amb qualsevol navegador.
+
+manual.pdf - Manual d'usuari pel programa
+testing.pdf - Explicacio del testing i els jocs de prova utilitzats.

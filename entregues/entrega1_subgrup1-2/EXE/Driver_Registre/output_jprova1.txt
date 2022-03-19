@@ -1,0 +1,274 @@
+Inicialitzant el registre amb la constructora per defecte...
+----- [Driver Registre] Test constructora per defecte. -----
+--- Crea un registre buit.
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter identificador del registre
+[2] Test setter identificador del registre
+[3] Test afegir atribut processat
+[4] Test getter llistat d'atributs
+[5] Test modificar atribut processat
+[6] Test eliminar atribut processat
+[7] Test existeix atribut processat
+[8] Test conte conjunt d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver Registre] Test setter identificador. -----
+--- Estableix l'identificador del registre.
+Introdueix el nou identificador: 
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter identificador del registre
+[2] Test setter identificador del registre
+[3] Test afegir atribut processat
+[4] Test getter llistat d'atributs
+[5] Test modificar atribut processat
+[6] Test eliminar atribut processat
+[7] Test existeix atribut processat
+[8] Test conte conjunt d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver Registre] Test getter identificador. -----
+--- Consulta l'identificador del registre.
+Identificador del registre: 123
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter identificador del registre
+[2] Test setter identificador del registre
+[3] Test afegir atribut processat
+[4] Test getter llistat d'atributs
+[5] Test modificar atribut processat
+[6] Test eliminar atribut processat
+[7] Test existeix atribut processat
+[8] Test conte conjunt d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver Registre] Test afegir atribut. -----
+--- Afegeix un nou atribut al registre.
+Introdueix el nom de l'atribut: 
+Introdueix el valor de l'atribut: 
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter identificador del registre
+[2] Test setter identificador del registre
+[3] Test afegir atribut processat
+[4] Test getter llistat d'atributs
+[5] Test modificar atribut processat
+[6] Test eliminar atribut processat
+[7] Test existeix atribut processat
+[8] Test conte conjunt d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver Registre] Test afegir atribut. -----
+--- Afegeix un nou atribut al registre.
+Introdueix el nom de l'atribut: 
+Introdueix el valor de l'atribut: 
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter identificador del registre
+[2] Test setter identificador del registre
+[3] Test afegir atribut processat
+[4] Test getter llistat d'atributs
+[5] Test modificar atribut processat
+[6] Test eliminar atribut processat
+[7] Test existeix atribut processat
+[8] Test conte conjunt d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver Registre] Test afegir atribut. -----
+--- Afegeix un nou atribut al registre.
+Introdueix el nom de l'atribut: 
+Introdueix el valor de l'atribut: 
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter identificador del registre
+[2] Test setter identificador del registre
+[3] Test afegir atribut processat
+[4] Test getter llistat d'atributs
+[5] Test modificar atribut processat
+[6] Test eliminar atribut processat
+[7] Test existeix atribut processat
+[8] Test conte conjunt d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver Registre] Test getter del llistat d'atributs. -----
+--- Consulta el llistat d'atributs del registre.
+Llistat d'atributs pel registre amb identificador 123
+ - atribut1: valor1
+ - atribut2: valor2
+ - atribut3: valor3
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter identificador del registre
+[2] Test setter identificador del registre
+[3] Test afegir atribut processat
+[4] Test getter llistat d'atributs
+[5] Test modificar atribut processat
+[6] Test eliminar atribut processat
+[7] Test existeix atribut processat
+[8] Test conte conjunt d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver Registre] Test modificar atribut. -----
+--- Modifica un atribut dins del registre.
+Introdueix el nom de l'atribut a modificar: 
+Introdueix el nou valor de l'atribut: 
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter identificador del registre
+[2] Test setter identificador del registre
+[3] Test afegir atribut processat
+[4] Test getter llistat d'atributs
+[5] Test modificar atribut processat
+[6] Test eliminar atribut processat
+[7] Test existeix atribut processat
+[8] Test conte conjunt d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver Registre] Test getter del llistat d'atributs. -----
+--- Consulta el llistat d'atributs del registre.
+Llistat d'atributs pel registre amb identificador 123
+ - atribut1: valor1
+ - atribut2: nouValorAtribut2
+ - atribut3: valor3
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter identificador del registre
+[2] Test setter identificador del registre
+[3] Test afegir atribut processat
+[4] Test getter llistat d'atributs
+[5] Test modificar atribut processat
+[6] Test eliminar atribut processat
+[7] Test existeix atribut processat
+[8] Test conte conjunt d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver Registre] Test existeix atribut. -----
+--- Comprova si existeix un atribut dins del conjunt.
+Introdueix el nom de l'atribut a consultar: 
+SI que existeix un atribut amb aquest nom dins del registre.
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter identificador del registre
+[2] Test setter identificador del registre
+[3] Test afegir atribut processat
+[4] Test getter llistat d'atributs
+[5] Test modificar atribut processat
+[6] Test eliminar atribut processat
+[7] Test existeix atribut processat
+[8] Test conte conjunt d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver Registre] Test eliminar atribut. -----
+--- Elimina un atribut del registre.
+Introdueix el nom de l'atribut a eliminar: 
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter identificador del registre
+[2] Test setter identificador del registre
+[3] Test afegir atribut processat
+[4] Test getter llistat d'atributs
+[5] Test modificar atribut processat
+[6] Test eliminar atribut processat
+[7] Test existeix atribut processat
+[8] Test conte conjunt d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver Registre] Test existeix atribut. -----
+--- Comprova si existeix un atribut dins del conjunt.
+Introdueix el nom de l'atribut a consultar: 
+NO existeix un atribut amb aquest nom dins del registre.
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter identificador del registre
+[2] Test setter identificador del registre
+[3] Test afegir atribut processat
+[4] Test getter llistat d'atributs
+[5] Test modificar atribut processat
+[6] Test eliminar atribut processat
+[7] Test existeix atribut processat
+[8] Test conte conjunt d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver Registre] Test conte atributs -----
+--- Comprova si un conjunt d'atributs donat existeix dins del registre
+Introdueix el nombre d'atributs que tindra el conjunt: 
+Introdueix el nom de l'atribut #0: 
+Introdueix el valor de l'atribut #0: 
+Introdueix el nom de l'atribut #1: 
+Introdueix el valor de l'atribut #1: 
+El conjunt donat NO es troba dins del registre.
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter identificador del registre
+[2] Test setter identificador del registre
+[3] Test afegir atribut processat
+[4] Test getter llistat d'atributs
+[5] Test modificar atribut processat
+[6] Test eliminar atribut processat
+[7] Test existeix atribut processat
+[8] Test conte conjunt d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver Registre] Test conte atributs -----
+--- Comprova si un conjunt d'atributs donat existeix dins del registre
+Introdueix el nombre d'atributs que tindra el conjunt: 
+Introdueix el nom de l'atribut #0: 
+Introdueix el valor de l'atribut #0: 
+Introdueix el nom de l'atribut #1: 
+Introdueix el valor de l'atribut #1: 
+El conjunt donat SI que es troba dins del registre.
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter identificador del registre
+[2] Test setter identificador del registre
+[3] Test afegir atribut processat
+[4] Test getter llistat d'atributs
+[5] Test modificar atribut processat
+[6] Test eliminar atribut processat
+[7] Test existeix atribut processat
+[8] Test conte conjunt d'atributs
+
+Especifica l'opcio a provar: 

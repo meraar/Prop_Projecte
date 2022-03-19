@@ -1,0 +1,24 @@
+Aquesta carpeta conte els arxius font del programa.
+
+A la carpeta src podem trobar les classes de la nostra aplicacio.
+A la carpeta tests podem trobar els tests de JUnit de la nostra aplicacio.
+
+Instruccions per la compilacio del projecte:
+
+Entrar a la carpeta src i compilar amb una de les seguents opcions:
+ - compilar executant make
+ - compilar executant el fitxer make.bat (per Windows)
+
+Es generara una carpeta bin que contendra totes les classes compilades.
+
+Instruccions per la compilacio dels tests:
+
+Entrar a la carpeta tests i compilar amb una de les seguents opcions:
+ - compilar executant make
+ - compilar executant el fitxer make.bat (per Windows)
+
+Es generara una carpeta bin que contendra totes les classes compilades.
+
+Per a executar els tests, compilar la carpeta tests i, dins de la carpeta tests/bin executar:
+
+java -cp .:../../lib/junit.jar:../../lib/hamcrest.jar org.junit.runner.JUnitCore prop.Domini.CjtReglesAssociacioTest

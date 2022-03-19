@@ -1,0 +1,16 @@
+En aquest directori tenim una carpeta per cada driver.
+A dins de cada carpeta es troba explicada la funcionalitat i com executar cada un d'ells.
+
+Driver_AtributBool -> Driver que prova la classe AtributBool
+Driver_AtributInt -> Driver que prova la classe AtributInt
+Driver_AtributProcessat -> Driver que prova la classe AtributProcessat
+Driver_AtributString -> Driver que prova la classe AtributString
+Driver_CjtAtributs -> Driver que prova la classe CjtAtributs
+Driver_CjtRegistres -> Driver que prova la classe CjtRegistres
+Driver_CjtReglesAssociacio -> Driver que prova la classe CjtReglesAssociacio
+Driver_CtrlAtributs -> Driver que prova la classe CtrlAtributs
+Driver_CtrlRegistres -> Driver que prova la classe CtrlRegistres
+Driver_CtrlRegles -> Driver que prova la classe CtrlRegles
+Driver_Interval -> Driver que prova la classe Interval
+Driver_Registre -> Driver que prova la classe Registre
+Driver_ReglaAssociacio -> Driver que prova la classe ReglaAssociacio

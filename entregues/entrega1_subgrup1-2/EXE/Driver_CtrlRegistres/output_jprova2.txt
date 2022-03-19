@@ -1,0 +1,56 @@
+Aquest driver prova les funcions de la classe CtrlRegistres.
+El conjunt d'atributs i els seus preprocessos definits per aquesta prova son:
+Atribut Nom:
+ - Valors possibles: Miquel Carles Albert Pere Meraj 
+Atribut NotaParcial1:
+ - Interval suspes: limInf: 0.000000, limSup: 5.000000, limSupIgual: false, limInfIgual: true
+ - Interval suficient: limInf: 5.000000, limSup: 6.500000, limSupIgual: true, limInfIgual: true
+ - Interval notable: limInf: 6.500000, limSup: 8.500000, limSupIgual: true, limInfIgual: false
+ - Interval excelent: limInf: 8.500000, limSup: 10.000000, limSupIgual: true, limInfIgual: false
+Atribut EntregaTreb:
+ - Valor true: Si, valor false: No
+Atribut NotaFinal:
+ - Interval suspes: limInf: 0.000000, limSup: 5.000000, limSupIgual: false, limInfIgual: true
+ - Interval suficient: limInf: 5.000000, limSup: 6.500000, limSupIgual: true, limInfIgual: true
+ - Interval notable: limInf: 6.500000, limSup: 8.500000, limSupIgual: true, limInfIgual: false
+ - Interval excelent: limInf: 8.500000, limSup: 10.000000, limSupIgual: true, limInfIgual: false
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Processar atributs
+[1] Consultar registre
+[2] Exportar registres
+[3] Importar registres
+[4] Buidar CjtRegistres
+
+Especifica l'opcio a provar: 
+----- [Driver CtrlRegistres] Test processar atributs -----
+--- Processa els atributs donat un fitxer de dades i el seu preproces
+Introdueix el path del fitxer de dades:  
+ * ERROR: noexisteix.csv (No such file or directory)
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Processar atributs
+[1] Consultar registre
+[2] Exportar registres
+[3] Importar registres
+[4] Buidar CjtRegistres
+
+Especifica l'opcio a provar: 
+----- [Driver CtrlRegistres] Test importar registres -----
+--- Importa els registres previament exportats a un fitxer
+Introdueix el path del fitxer a importar:  
+ * ERROR: noexisteix.prop (No such file or directory)
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Processar atributs
+[1] Consultar registre
+[2] Exportar registres
+[3] Importar registres
+[4] Buidar CjtRegistres
+
+Especifica l'opcio a provar: 

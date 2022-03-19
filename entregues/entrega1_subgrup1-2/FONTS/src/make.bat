@@ -1,0 +1,1 @@
+javac -d bin/ prop/*.java Drivers/*.java

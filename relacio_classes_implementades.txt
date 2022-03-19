@@ -1,0 +1,48 @@
+Carles Capilla:
+ - prop.Domini.Atribut
+ - prop.Domini.AtributBool
+ - prop.Domini.AtributInt
+ - prop.Domini.AtributString
+ - prop.Domini.CjtAtributs
+ - prop.Domini.CtrlAtributs
+ - prop.Domini.Interval
+ - prop.Domini.Tipus
+ - prop.Presentacio.VistaAtribut
+ - prop.Presentacio.VistaAtributBool
+ - prop.Presentacio.VistaAtributInt
+ - prop.Presentacio.VistaAtributString
+ - prop.Presentacio.VistaGestorFitxerDades
+
+Albert Coma:
+ - prop.Domini.CtrlRegles
+ - prop.Domini.ReglaAssociacio
+ - prop.Presentacio.VistaExportarRegles
+ - prop.Presentacio.VistaGenerarRegles
+ - prop.Presentacio.VistaImportarRegles
+ - prop.Presentacio.VistaOutputValidarRegles
+ - prop.Presentacio.VistaValidarRegles
+
+Pere Grau:
+ - prop.Domini.AtributProcessat
+ - prop.Domini.CjtRegistres
+ - prop.Domini.CtrlRegistres
+ - prop.Domini.Registre
+ - prop.Persistencia.CtrlPersistencia
+ - prop.Persistencia.FitxerDades
+ - prop.Presentacio.utils.table.RegistresTableCellEditor
+ - prop.Presentacio.utils.table.RegistresTableCellRenderer
+ - prop.Presentacio.utils.table.RegistresTableModel
+ - prop.Presentacio.VistaExportarRegistres
+ - prop.Presentacio.VistaImportarRegistres
+ - prop.Presentacio.VistaPrincipal
+ - prop.Presentacio.VistaProcessarAtributs
+ - prop.Presentacio.VistaRegistres
+
+Muhammad Meraj:
+ - prop.Domini.CjtReglesAssociacio
+ - prop.Domini.CtrlRegles
+ - prop.Presentacio.VistaConsultaRegles
+ - prop.Presentacio.VistaFiltrarReglaperCondicio
+ - prop.Presentacio.VistaFiltrarReglaperConsequent
+ - prop.Presentacio.VistaSortidaConsultaRegles
+

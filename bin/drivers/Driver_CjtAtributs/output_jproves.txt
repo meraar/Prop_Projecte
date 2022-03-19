@@ -1,0 +1,69 @@
+*********************************************************************
+* Benvingut! Estas al Driver_AtributString. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Provar l'actualitzacio d'un atribut en concret
+*	3. Provar l'eliminacio d'un atribut en concret
+*********************************************************************
+ 
+1
+Prova de les constructores
+Indiqui la creadora que vol testejar:
+*	0. Constructora per defecte
+*	1. Constructora amb atributs al conjunt
+ 
+Correcto
+*********************************************************************
+* Benvingut! Estas al Driver_AtributString. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Provar l'actualitzacio d'un atribut en concret
+*	3. Provar l'eliminacio d'un atribut en concret
+*********************************************************************
+Selecciona la nova funcionalitat a provar 
+Prova de les constructores
+Indiqui la creadora que vol testejar:
+*	0. Constructora per defecte
+*	1. Constructora amb atributs al conjunt
+ 
+Es crea una llista d'atributs amb un de tipus Float i l'altre String 
+Es crea un conjunt d'atributs amb la llista especificada 
+Dades de l'atribut que pertany al conjunt d'atributs despres del canvi a la posicio 0-> Nom = atr tipus= float
+Dades de l'atribut que pertany al conjunt d'atributs despres del canvi a la posicio 1-> Nom = atr2 tipus= String
+*********************************************************************
+* Benvingut! Estas al Driver_AtributString. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Provar l'actualitzacio d'un atribut en concret
+*	3. Provar l'eliminacio d'un atribut en concret
+*********************************************************************
+Selecciona la nova funcionalitat a provar 
+Prova de updateAtribut d'un conjunt d'atributs:
+Es creara un conjunt d'atributs amb un atributInt anomenat atr de tipus float 
+Dades de l'atribut que pertany al conjunt d'atributs-> Nom = atr tipus= float
+Ara se substitueix per un atributString anomenat atr2 de tipus String 
+Dades de l'atribut que pertany al conjunt d'atributs despres del canvi-> Nom = atr2 tipus= String
+*********************************************************************
+* Benvingut! Estas al Driver_AtributString. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Provar l'actualitzacio d'un atribut en concret
+*	3. Provar l'eliminacio d'un atribut en concret
+*********************************************************************
+Selecciona la nova funcionalitat a provar 
+Prova de deleteAtribut d'un conjunt d'atributs
+Es creara un conjunt d'atributs amb un atributInt anomenat atr de tipus Float i un atributString anomenat atr2 de tipus String
+Dades de l'atribut que pertany al conjunt d'atributs a la posicio 0-> Nom = atr tipus= float
+Dades de l'atribut que pertany al conjunt d'atributs a la posicio 1-> Nom = atr2 tipus= String
+Ara eliminem el segon atribut del conjunt 
+Ara obtenim tots els atributs del conjunt 
+Dades de l'atribut que pertany al conjunt d'atributs despres del canvi a la posicio 0-> Nom = atr tipus= float
+Fi del conjunt
+*********************************************************************
+* Benvingut! Estas al Driver_AtributString. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Provar l'actualitzacio d'un atribut en concret
+*	3. Provar l'eliminacio d'un atribut en concret
+*********************************************************************
+Selecciona la nova funcionalitat a provar 

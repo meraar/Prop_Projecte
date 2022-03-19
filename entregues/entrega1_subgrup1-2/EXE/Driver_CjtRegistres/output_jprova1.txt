@@ -1,0 +1,323 @@
+Inicialitzant el conjunt amb la constructora per defecte...
+----- [Driver CjtRegistres] Test constructora -----
+--- Crea un conjunt utilitzant la constructora per defecte.
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter llistat de registres
+[2] Test setter llistat de registres
+[3] Test eliminar registre del conjunt
+[4] Test actualitzar registre del conjunt
+[5] Test afegir registre al conjunt
+[6] Test consultar registre
+[7] Test get atributs unics
+[8] Test ordena llistat atributs
+[9] Test calcul de suport
+
+Especifica l'opcio a provar: 
+----- [Driver CjtRegistres] Test setter del llistat de registres -----
+--- Estableix el llistat de registres donat un nou arraylist de registres.
+Introdueix la quantitat de registres del nou llistat: 
+Introduccio de dades pel registre #0:
+Introdueix l'identificador del registre: 
+Introdueix el nombre d'atributs que conte el registre: 
+Introdueix el nom de l'atribut 1: 
+Introdueix el valor de l'atribut 1: 
+Introdueix el nom de l'atribut 2: 
+Introdueix el valor de l'atribut 2: 
+Introdueix el nom de l'atribut 3: 
+Introdueix el valor de l'atribut 3: 
+
+Introduccio de dades pel registre #1:
+Introdueix l'identificador del registre: 
+Introdueix el nombre d'atributs que conte el registre: 
+Introdueix el nom de l'atribut 1: 
+Introdueix el valor de l'atribut 1: 
+Introdueix el nom de l'atribut 2: 
+Introdueix el valor de l'atribut 2: 
+Introdueix el nom de l'atribut 3: 
+Introdueix el valor de l'atribut 3: 
+
+Introduccio de dades pel registre #2:
+Introdueix l'identificador del registre: 
+Introdueix el nombre d'atributs que conte el registre: 
+Introdueix el nom de l'atribut 1: 
+Introdueix el valor de l'atribut 1: 
+Introdueix el nom de l'atribut 2: 
+Introdueix el valor de l'atribut 2: 
+
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter llistat de registres
+[2] Test setter llistat de registres
+[3] Test eliminar registre del conjunt
+[4] Test actualitzar registre del conjunt
+[5] Test afegir registre al conjunt
+[6] Test consultar registre
+[7] Test get atributs unics
+[8] Test ordena llistat atributs
+[9] Test calcul de suport
+
+Especifica l'opcio a provar: 
+----- [Driver CjtRegistres] Test getter del llistat de registres -----
+--- Retorna el llistat de registres i els imprimeix per pantalla.
+ - Registre 1
+   - atribut1: valor1
+   - atribut2: valor2
+   - atribut3: valor3
+ - Registre 2
+   - atribut1: valor1
+   - atribut2: valor2
+   - atribut4: valor4
+ - Registre 3
+   - atribut3: valor3
+   - atribut4: valor4
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter llistat de registres
+[2] Test setter llistat de registres
+[3] Test eliminar registre del conjunt
+[4] Test actualitzar registre del conjunt
+[5] Test afegir registre al conjunt
+[6] Test consultar registre
+[7] Test get atributs unics
+[8] Test ordena llistat atributs
+[9] Test calcul de suport
+
+Especifica l'opcio a provar: 
+----- [Driver CjtRegistres] Test eliminar registre del llistat -----
+--- Elimina un registre del llistat donat el seu identificador.
+Introdueix l'identificador del registre a eliminar: 
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter llistat de registres
+[2] Test setter llistat de registres
+[3] Test eliminar registre del conjunt
+[4] Test actualitzar registre del conjunt
+[5] Test afegir registre al conjunt
+[6] Test consultar registre
+[7] Test get atributs unics
+[8] Test ordena llistat atributs
+[9] Test calcul de suport
+
+Especifica l'opcio a provar: 
+----- [Driver CjtRegistres] Test getter del llistat de registres -----
+--- Retorna el llistat de registres i els imprimeix per pantalla.
+ - Registre 1
+   - atribut1: valor1
+   - atribut2: valor2
+   - atribut3: valor3
+ - Registre 2
+   - atribut1: valor1
+   - atribut2: valor2
+   - atribut4: valor4
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter llistat de registres
+[2] Test setter llistat de registres
+[3] Test eliminar registre del conjunt
+[4] Test actualitzar registre del conjunt
+[5] Test afegir registre al conjunt
+[6] Test consultar registre
+[7] Test get atributs unics
+[8] Test ordena llistat atributs
+[9] Test calcul de suport
+
+Especifica l'opcio a provar: 
+----- [Driver CjtRegistres] Test afegir registre dins del conjunt -----
+--- Afegeix un registre al conjunt
+Introdueix les dades del nou registre:
+Introdueix l'identificador del registre: 
+Introdueix el nombre d'atributs que conte el registre: 
+Introdueix el nom de l'atribut 1: 
+Introdueix el valor de l'atribut 1: 
+Introdueix el nom de l'atribut 2: 
+Introdueix el valor de l'atribut 2: 
+Introdueix el nom de l'atribut 3: 
+Introdueix el valor de l'atribut 3: 
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter llistat de registres
+[2] Test setter llistat de registres
+[3] Test eliminar registre del conjunt
+[4] Test actualitzar registre del conjunt
+[5] Test afegir registre al conjunt
+[6] Test consultar registre
+[7] Test get atributs unics
+[8] Test ordena llistat atributs
+[9] Test calcul de suport
+
+Especifica l'opcio a provar: 
+----- [Driver CjtRegistres] Test getter del llistat de registres -----
+--- Retorna el llistat de registres i els imprimeix per pantalla.
+ - Registre 1
+   - atribut1: valor1
+   - atribut2: valor2
+   - atribut3: valor3
+ - Registre 2
+   - atribut1: valor1
+   - atribut2: valor2
+   - atribut4: valor4
+ - Registre 3
+   - atribut1: valor1
+   - atribut3: valor3
+   - atribut4: valor4
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter llistat de registres
+[2] Test setter llistat de registres
+[3] Test eliminar registre del conjunt
+[4] Test actualitzar registre del conjunt
+[5] Test afegir registre al conjunt
+[6] Test consultar registre
+[7] Test get atributs unics
+[8] Test ordena llistat atributs
+[9] Test calcul de suport
+
+Especifica l'opcio a provar: 
+----- [Driver CjtRegistres] Test actualitzar registre dins del conjunt -----
+--- Actualitza un registre del conjunt donat un identificador i un nou registre.
+Introdueix l'identificador del registre a actualitzar: 
+Introdueix les dades del nou registre:
+Introdueix el nombre d'atributs que conte el registre: 
+Introdueix el nom de l'atribut 1: 
+Introdueix el valor de l'atribut 1: 
+Introdueix el nom de l'atribut 2: 
+Introdueix el valor de l'atribut 2: 
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter llistat de registres
+[2] Test setter llistat de registres
+[3] Test eliminar registre del conjunt
+[4] Test actualitzar registre del conjunt
+[5] Test afegir registre al conjunt
+[6] Test consultar registre
+[7] Test get atributs unics
+[8] Test ordena llistat atributs
+[9] Test calcul de suport
+
+Especifica l'opcio a provar: 
+----- [Driver CjtRegistres] Test consultar registre -----
+--- Consulta un registre del conjunt
+Introdueix l'identificador del registre: 
+ - Registre 1
+   - atribut1: valor1
+   - atribut2: valor2
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter llistat de registres
+[2] Test setter llistat de registres
+[3] Test eliminar registre del conjunt
+[4] Test actualitzar registre del conjunt
+[5] Test afegir registre al conjunt
+[6] Test consultar registre
+[7] Test get atributs unics
+[8] Test ordena llistat atributs
+[9] Test calcul de suport
+
+Especifica l'opcio a provar: 
+----- [Driver CjtRegistres] Test get atributs unics -----
+--- Obte un conjunt amb els atributs unics que hi ha dins del conjunt de registres ordenats lexicograficament
+El llistat d'AtributsProcessats unics dins del conjunt es:
+ - atribut1: valor1
+ - atribut2: valor2
+ - atribut3: valor3
+ - atribut4: valor4
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter llistat de registres
+[2] Test setter llistat de registres
+[3] Test eliminar registre del conjunt
+[4] Test actualitzar registre del conjunt
+[5] Test afegir registre al conjunt
+[6] Test consultar registre
+[7] Test get atributs unics
+[8] Test ordena llistat atributs
+[9] Test calcul de suport
+
+Especifica l'opcio a provar: 
+----- [Driver CjtRegistres] Test ordenacio -----
+--- Ordena un conjunt d'atributs en ordre lexicografic i sense repetits
+S'ordenaran tots els atributs de dins del CjtRegistres:
+ - atribut1: valor1
+ - atribut2: valor2
+ - atribut3: valor3
+ - atribut4: valor4
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter llistat de registres
+[2] Test setter llistat de registres
+[3] Test eliminar registre del conjunt
+[4] Test actualitzar registre del conjunt
+[5] Test afegir registre al conjunt
+[6] Test consultar registre
+[7] Test get atributs unics
+[8] Test ordena llistat atributs
+[9] Test calcul de suport
+
+Especifica l'opcio a provar: 
+----- [Driver CjtRegistres] Test calcul de suport -----
+--- Calcula el suport del conjunt d'atributs donat dins del conjunt de registres
+Primer es demanara l'entrada del conjunt d'Atributs del qual es vol comprovar el suport
+Introdueix el nombre d'atributs que tindra el conjunt: 
+Introdueix el nom de l'atribut #0: 
+Introdueix el valor de l'atribut #0: 
+Introdueix el nom de l'atribut #1: 
+Introdueix el valor de l'atribut #1: 
+Introdueix el nom de l'atribut #2: 
+Introdueix el valor de l'atribut #2: 
+Introdueix el nom de l'atribut #3: 
+Introdueix el valor de l'atribut #3: 
+
+Llistat de suports pels atributs especificats:
+ - atribut1=valor1: 3
+ - atribut2=valor2: 2
+ - atribut3=valor3: 1
+ - atribut4=valor4: 2
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter llistat de registres
+[2] Test setter llistat de registres
+[3] Test eliminar registre del conjunt
+[4] Test actualitzar registre del conjunt
+[5] Test afegir registre al conjunt
+[6] Test consultar registre
+[7] Test get atributs unics
+[8] Test ordena llistat atributs
+[9] Test calcul de suport
+
+Especifica l'opcio a provar: 

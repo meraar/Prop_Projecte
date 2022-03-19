@@ -1,0 +1,1 @@
+javac -d bin/ -cp .:../lib/hamcrest.jar -cp .:../lib/junit.jar ../src/prop/*.java ../src/prop/Domini/*.java ../src/prop/Persistencia/*.java ../src/Drivers/*.java prop/Domini/*.java

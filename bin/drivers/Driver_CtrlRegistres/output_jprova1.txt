@@ -1,0 +1,286 @@
+Aquest driver prova les funcions de la classe CtrlRegistres.
+El conjunt d'atributs i els seus preprocessos definits per aquesta prova son:
+Atribut Nom:
+ - Valors possibles: Miquel Carles Albert Pere Meraj 
+Atribut NotaParcial1:
+ - Interval suspes: limInf: 0.000000, limSup: 5.000000, limSupIgual: false, limInfIgual: true
+ - Interval suficient: limInf: 5.000000, limSup: 6.500000, limSupIgual: true, limInfIgual: true
+ - Interval notable: limInf: 6.500000, limSup: 8.500000, limSupIgual: true, limInfIgual: false
+ - Interval excelent: limInf: 8.500000, limSup: 10.000000, limSupIgual: true, limInfIgual: false
+Atribut EntregaTreb:
+ - Valor true: Si, valor false: No
+Atribut NotaFinal:
+ - Interval suspes: limInf: 0.000000, limSup: 5.000000, limSupIgual: false, limInfIgual: true
+ - Interval suficient: limInf: 5.000000, limSup: 6.500000, limSupIgual: true, limInfIgual: true
+ - Interval notable: limInf: 6.500000, limSup: 8.500000, limSupIgual: true, limInfIgual: false
+ - Interval excelent: limInf: 8.500000, limSup: 10.000000, limSupIgual: true, limInfIgual: false
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Processar atributs
+[1] Consultar registre
+[2] Exportar registres
+[3] Importar registres
+[4] Buidar CjtRegistres
+
+Especifica l'opcio a provar: 
+----- [Driver CtrlRegistres] Test processar atributs -----
+--- Processa els atributs donat un fitxer de dades i el seu preproces
+Introdueix el path del fitxer de dades:  
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Processar atributs
+[1] Consultar registre
+[2] Exportar registres
+[3] Importar registres
+[4] Buidar CjtRegistres
+
+Especifica l'opcio a provar: 
+----- [Driver CtrlRegistres] Test consultar registre -----
+--- Consulta un registre del conjunt
+Introdueix l'identificador del registre a consultar:  
+El registre amb ID 1 conte els seguents atributs:
+ - EntregaTreb = true
+ - NotaFinal = excelent
+ - NotaParcial1 = excelent
+ - Nom = Pere
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Processar atributs
+[1] Consultar registre
+[2] Exportar registres
+[3] Importar registres
+[4] Buidar CjtRegistres
+
+Especifica l'opcio a provar: 
+----- [Driver CtrlRegistres] Test consultar registre -----
+--- Consulta un registre del conjunt
+Introdueix l'identificador del registre a consultar:  
+El registre amb ID 2 conte els seguents atributs:
+ - EntregaTreb = true
+ - NotaFinal = suficient
+ - NotaParcial1 = suspes
+ - Nom = Meraj
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Processar atributs
+[1] Consultar registre
+[2] Exportar registres
+[3] Importar registres
+[4] Buidar CjtRegistres
+
+Especifica l'opcio a provar: 
+----- [Driver CtrlRegistres] Test consultar registre -----
+--- Consulta un registre del conjunt
+Introdueix l'identificador del registre a consultar:  
+El registre amb ID 3 conte els seguents atributs:
+ - EntregaTreb = false
+ - NotaFinal = suspes
+ - NotaParcial1 = suficient
+ - Nom = Albert
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Processar atributs
+[1] Consultar registre
+[2] Exportar registres
+[3] Importar registres
+[4] Buidar CjtRegistres
+
+Especifica l'opcio a provar: 
+----- [Driver CtrlRegistres] Test consultar registre -----
+--- Consulta un registre del conjunt
+Introdueix l'identificador del registre a consultar:  
+El registre amb ID 4 conte els seguents atributs:
+ - EntregaTreb = true
+ - NotaFinal = suficient
+ - NotaParcial1 = suficient
+ - Nom = Carles
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Processar atributs
+[1] Consultar registre
+[2] Exportar registres
+[3] Importar registres
+[4] Buidar CjtRegistres
+
+Especifica l'opcio a provar: 
+----- [Driver CtrlRegistres] Test consultar registre -----
+--- Consulta un registre del conjunt
+Introdueix l'identificador del registre a consultar:  
+El registre amb ID 5 conte els seguents atributs:
+ - EntregaTreb = false
+ - NotaFinal = notable
+ - NotaParcial1 = notable
+ - Nom = Miquel
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Processar atributs
+[1] Consultar registre
+[2] Exportar registres
+[3] Importar registres
+[4] Buidar CjtRegistres
+
+Especifica l'opcio a provar: 
+----- [Driver CtrlRegistres] Test exportar registres -----
+--- Exporta els registres d'atributs processats a un fitxer
+Introdueix el path del fitxer desti:  
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Processar atributs
+[1] Consultar registre
+[2] Exportar registres
+[3] Importar registres
+[4] Buidar CjtRegistres
+
+Especifica l'opcio a provar: 
+----- [Driver CtrlRegistres] Test buidar conjunt -----
+--- Buida el conjunt de registres actual
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Processar atributs
+[1] Consultar registre
+[2] Exportar registres
+[3] Importar registres
+[4] Buidar CjtRegistres
+
+Especifica l'opcio a provar: 
+----- [Driver CtrlRegistres] Test consultar registre -----
+--- Consulta un registre del conjunt
+Introdueix l'identificador del registre a consultar:  
+ * ERROR: El registre amb l'identificador donat no existeix dins del conjunt.
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Processar atributs
+[1] Consultar registre
+[2] Exportar registres
+[3] Importar registres
+[4] Buidar CjtRegistres
+
+Especifica l'opcio a provar: 
+----- [Driver CtrlRegistres] Test importar registres -----
+--- Importa els registres previament exportats a un fitxer
+Introdueix el path del fitxer a importar:  
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Processar atributs
+[1] Consultar registre
+[2] Exportar registres
+[3] Importar registres
+[4] Buidar CjtRegistres
+
+Especifica l'opcio a provar: 
+----- [Driver CtrlRegistres] Test consultar registre -----
+--- Consulta un registre del conjunt
+Introdueix l'identificador del registre a consultar:  
+El registre amb ID 1 conte els seguents atributs:
+ - EntregaTreb = true
+ - NotaFinal = excelent
+ - NotaParcial1 = excelent
+ - Nom = Pere
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Processar atributs
+[1] Consultar registre
+[2] Exportar registres
+[3] Importar registres
+[4] Buidar CjtRegistres
+
+Especifica l'opcio a provar: 
+----- [Driver CtrlRegistres] Test consultar registre -----
+--- Consulta un registre del conjunt
+Introdueix l'identificador del registre a consultar:  
+El registre amb ID 2 conte els seguents atributs:
+ - EntregaTreb = true
+ - NotaFinal = suficient
+ - NotaParcial1 = suspes
+ - Nom = Meraj
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Processar atributs
+[1] Consultar registre
+[2] Exportar registres
+[3] Importar registres
+[4] Buidar CjtRegistres
+
+Especifica l'opcio a provar: 
+----- [Driver CtrlRegistres] Test consultar registre -----
+--- Consulta un registre del conjunt
+Introdueix l'identificador del registre a consultar:  
+El registre amb ID 3 conte els seguents atributs:
+ - EntregaTreb = false
+ - NotaFinal = suspes
+ - NotaParcial1 = suficient
+ - Nom = Albert
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Processar atributs
+[1] Consultar registre
+[2] Exportar registres
+[3] Importar registres
+[4] Buidar CjtRegistres
+
+Especifica l'opcio a provar: 
+----- [Driver CtrlRegistres] Test consultar registre -----
+--- Consulta un registre del conjunt
+Introdueix l'identificador del registre a consultar:  
+El registre amb ID 4 conte els seguents atributs:
+ - EntregaTreb = true
+ - NotaFinal = suficient
+ - NotaParcial1 = suficient
+ - Nom = Carles
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Processar atributs
+[1] Consultar registre
+[2] Exportar registres
+[3] Importar registres
+[4] Buidar CjtRegistres
+
+Especifica l'opcio a provar: 
+----- [Driver CtrlRegistres] Test consultar registre -----
+--- Consulta un registre del conjunt
+Introdueix l'identificador del registre a consultar:  
+El registre amb ID 5 conte els seguents atributs:
+ - EntregaTreb = false
+ - NotaFinal = notable
+ - NotaParcial1 = notable
+ - Nom = Miquel
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Processar atributs
+[1] Consultar registre
+[2] Exportar registres
+[3] Importar registres
+[4] Buidar CjtRegistres
+
+Especifica l'opcio a provar: 

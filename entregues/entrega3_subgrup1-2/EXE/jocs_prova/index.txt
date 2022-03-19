@@ -1,0 +1,14 @@
+hola.csv - Fitxer de dades per la prova hola.csv
+hola.registres.prop - Exportacio de registres per la prova hola.csv
+hola.regles.prop - Exportacio de regles per la prova hola.csv
+hola2.csv - Fitxer de dades per validar les regles de la prova hola.cs
+
+hotel_booking.csv - Fitxer de dades per la prova hotel_booking.csv
+hotel_booking.registres.prop - Exportacio de registres per la prova hotel_booking.csv
+hotel_booking.regles.prop - Exportacio de regles per la prova hotel_booking.csv
+
+iris.csv - Fitxer de dades per la prova iris.csv
+
+prova.csv - Fitxer de dades per la prova prova.csv
+prova.registres.prop - Exportacio de registres per la prova prova.csv
+prova.regles.prop - Exportacio de regles per la prova prova.csv

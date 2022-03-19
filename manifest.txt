@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+Created-By: PROP subgrup1.2: Carles Capilla Canovas, Albert Coma, Pere Grau Molina i Muhammad Meraj Arshad

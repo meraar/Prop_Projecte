@@ -1,0 +1,155 @@
+Inicialitzant el conjunt amb la constructora per defecte...
+ Test Constructura per defecte
+
+ *** Menu del driver CtrlRegles *** 
+[-1] Sortir del driver
+[0] Test constructora
+[1] Generar Regles
+[2] Validar Regles
+[3] Exportar Regles
+[4] Importar Regles
+
+Especifica l'opcio a provar: 
+ Test Constructura per defecte
+
+ *** Menu del driver CtrlRegles *** 
+[-1] Sortir del driver
+[0] Test constructora
+[1] Generar Regles
+[2] Validar Regles
+[3] Exportar Regles
+[4] Importar Regles
+
+Especifica l'opcio a provar: 
+ Test Apriori  i generar regles
+Introdueix el nombre de Registres que vols utilizar per generar regles:  
+Introduccio de dades pel registre #1:
+Introdueix identificador del registre: 
+Introdueix el nombre de atributs que conte el registre: 
+Introdueix el nom de l'atribut 1: 
+Introdueix el valor de l'atribut 1: 
+Introdueix el nom de l'atribut 2: 
+Introdueix el valor de l'atribut 2: 
+Introdueix el nom de l'atribut 3: 
+Introdueix el valor de l'atribut 3: 
+
+Introduccio de dades pel registre #2:
+Introdueix identificador del registre: 
+Introdueix el nombre de atributs que conte el registre: 
+Introdueix el nom de l'atribut 1: 
+Introdueix el valor de l'atribut 1: 
+Introdueix el nom de l'atribut 2: 
+Introdueix el valor de l'atribut 2: 
+Introdueix el nom de l'atribut 3: 
+Introdueix el valor de l'atribut 3: 
+
+Introduccio de dades pel registre #3:
+Introdueix identificador del registre: 
+Introdueix el nombre de atributs que conte el registre: 
+Introdueix el nom de l'atribut 1: 
+Introdueix el valor de l'atribut 1: 
+Introdueix el nom de l'atribut 2: 
+Introdueix el valor de l'atribut 2: 
+Introdueix el nom de l'atribut 3: 
+Introdueix el valor de l'atribut 3: 
+Introdueix el nom de l'atribut 4: 
+Introdueix el valor de l'atribut 4: 
+
+Introduccio de dades pel registre #4:
+Introdueix identificador del registre: 
+Introdueix el nombre de atributs que conte el registre: 
+Introdueix el nom de l'atribut 1: 
+Introdueix el valor de l'atribut 1: 
+Introdueix el nom de l'atribut 2: 
+Introdueix el valor de l'atribut 2: 
+
+Introdueix el minim Suport:  
+Introdueix el minim Confianca:  
+Introdueix el nombre maxim de Regles a generar:  
+Identificador regla : 2 
+Suport : 0.5, Confianca : 0.25
+Identificador regla : 3 
+Suport : 0.5, Confianca : 0.16666667
+Identificador regla : 4 
+Suport : 0.5, Confianca : 0.25
+
+ *** Menu del driver CtrlRegles *** 
+[-1] Sortir del driver
+[0] Test constructora
+[1] Generar Regles
+[2] Validar Regles
+[3] Exportar Regles
+[4] Importar Regles
+
+Especifica l'opcio a provar: 
+ Test Validar Regles 
+Introdueix el nombre de Registres que vols utilizar per generar regles:  
+Introduccio de dades pel registre #1:
+Introdueix identificador del registre: 
+Introdueix el nombre de atributs que conte el registre: 
+Introdueix el nom de l'atribut 1: 
+Introdueix el valor de l'atribut 1: 
+Introdueix el nom de l'atribut 2: 
+Introdueix el valor de l'atribut 2: 
+Introdueix el nom de l'atribut 3: 
+Introdueix el valor de l'atribut 3: 
+Introdueix el nom de l'atribut 4: 
+Introdueix el valor de l'atribut 4: 
+Introdueix el nom de l'atribut 5: 
+Introdueix el valor de l'atribut 5: 
+
+Introduccio de dades pel registre #2:
+Introdueix identificador del registre: 
+Introdueix el nombre de atributs que conte el registre: 
+Introdueix el nom de l'atribut 1: 
+Introdueix el valor de l'atribut 1: 
+Introdueix el nom de l'atribut 2: 
+Introdueix el valor de l'atribut 2: 
+Introdueix el nom de l'atribut 3: 
+Introdueix el valor de l'atribut 3: 
+
+Introdueix el minim Suport:  
+Introdueix la minima Confianca:  
+Identificador regla : 2 
+Suport : 0.5, Confianca : 0.5
+Identificador regla : 3 
+Suport : 0.5, Confianca : 0.5
+
+
+ *** Menu del driver CtrlRegles *** 
+[-1] Sortir del driver
+[0] Test constructora
+[1] Generar Regles
+[2] Validar Regles
+[3] Exportar Regles
+[4] Importar Regles
+
+Especifica l'opcio a provar: 
+----- [Driver CtrlRegles] Test exportar regles d'associacio -----
+--- Exporta les regles d'associacio a un fitxer
+Introdueix el path del fitxer desti:  
+--- Test finalitzat
+
+ *** Menu del driver CtrlRegles *** 
+[-1] Sortir del driver
+[0] Test constructora
+[1] Generar Regles
+[2] Validar Regles
+[3] Exportar Regles
+[4] Importar Regles
+
+Especifica l'opcio a provar: 
+----- [Driver CtrlRegles] Test importar regles d'associacio -----
+--- Importa les regles d'associacio previament exportats a un fitxer
+Introdueix el path del fitxer a importar:  
+--- Test finalitzat
+
+ *** Menu del driver CtrlRegles *** 
+[-1] Sortir del driver
+[0] Test constructora
+[1] Generar Regles
+[2] Validar Regles
+[3] Exportar Regles
+[4] Importar Regles
+
+Especifica l'opcio a provar: 

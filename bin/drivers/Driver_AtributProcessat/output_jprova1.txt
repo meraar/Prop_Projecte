@@ -1,0 +1,183 @@
+Inicialitzant l'atribut amb la constructora per defecte...
+----- [Driver AtributProcessat] Test constructora -----
+--- Crea un atribut utilitzant la constructora per defecte
+Introdueix el nom de l'atribut: 
+Introdueix el valor de l'atribut: 
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter del nom de l'atribut
+[2] Test getter del valor de l'atribut
+[3] Test setter del nom de l'atribut
+[4] Test setter del valor de l'atribut
+[5] Test igualtat d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver AtributProcessat] Test getter nom -----
+--- Obtenir el nom de l'atribut
+Nom de l'atribut: atribut1
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter del nom de l'atribut
+[2] Test getter del valor de l'atribut
+[3] Test setter del nom de l'atribut
+[4] Test setter del valor de l'atribut
+[5] Test igualtat d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver AtributProcessat] Test getter valor -----
+--- Obtenir el valor de l'atribut
+Valor de l'atribut: valor1
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter del nom de l'atribut
+[2] Test getter del valor de l'atribut
+[3] Test setter del nom de l'atribut
+[4] Test setter del valor de l'atribut
+[5] Test igualtat d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver AtributProcessat] Test setter nom -----
+--- Estableix el nom de l'atribut
+Introdueix el nom de l'atribut: 
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter del nom de l'atribut
+[2] Test getter del valor de l'atribut
+[3] Test setter del nom de l'atribut
+[4] Test setter del valor de l'atribut
+[5] Test igualtat d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver AtributProcessat] Test getter nom -----
+--- Obtenir el nom de l'atribut
+Nom de l'atribut: nouNomAtribut1
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter del nom de l'atribut
+[2] Test getter del valor de l'atribut
+[3] Test setter del nom de l'atribut
+[4] Test setter del valor de l'atribut
+[5] Test igualtat d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver AtributProcessat] Test setter valor -----
+--- Estableix el valor de l'atribut
+Introdueix el valor de l'atribut: 
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter del nom de l'atribut
+[2] Test getter del valor de l'atribut
+[3] Test setter del nom de l'atribut
+[4] Test setter del valor de l'atribut
+[5] Test igualtat d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver AtributProcessat] Test getter valor -----
+--- Obtenir el valor de l'atribut
+Valor de l'atribut: nouValorAtribut1
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter del nom de l'atribut
+[2] Test getter del valor de l'atribut
+[3] Test setter del nom de l'atribut
+[4] Test setter del valor de l'atribut
+[5] Test igualtat d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver AtributProcessat] Test igualtat d'atributs -----
+--- Comprova si dos atributs son iguals
+Introdueix el nom del primer atribut: 
+Introdueix el valor del primer atribut: 
+Introdueix el nom del segon atribut: 
+Introdueix el valor del segon atribut: 
+Els atributs NO son iguals.
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter del nom de l'atribut
+[2] Test getter del valor de l'atribut
+[3] Test setter del nom de l'atribut
+[4] Test setter del valor de l'atribut
+[5] Test igualtat d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver AtributProcessat] Test igualtat d'atributs -----
+--- Comprova si dos atributs son iguals
+Introdueix el nom del primer atribut: 
+Introdueix el valor del primer atribut: 
+Introdueix el nom del segon atribut: 
+Introdueix el valor del segon atribut: 
+Els atributs NO son iguals.
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter del nom de l'atribut
+[2] Test getter del valor de l'atribut
+[3] Test setter del nom de l'atribut
+[4] Test setter del valor de l'atribut
+[5] Test igualtat d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver AtributProcessat] Test igualtat d'atributs -----
+--- Comprova si dos atributs son iguals
+Introdueix el nom del primer atribut: 
+Introdueix el valor del primer atribut: 
+Introdueix el nom del segon atribut: 
+Introdueix el valor del segon atribut: 
+Els atributs NO son iguals.
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter del nom de l'atribut
+[2] Test getter del valor de l'atribut
+[3] Test setter del nom de l'atribut
+[4] Test setter del valor de l'atribut
+[5] Test igualtat d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver AtributProcessat] Test igualtat d'atributs -----
+--- Comprova si dos atributs son iguals
+Introdueix el nom del primer atribut: 
+Introdueix el valor del primer atribut: 
+Introdueix el nom del segon atribut: 
+Introdueix el valor del segon atribut: 
+Els atributs SI que son iguals
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter del nom de l'atribut
+[2] Test getter del valor de l'atribut
+[3] Test setter del nom de l'atribut
+[4] Test setter del valor de l'atribut
+[5] Test igualtat d'atributs
+
+Especifica l'opcio a provar: 

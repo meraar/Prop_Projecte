@@ -1,0 +1,348 @@
+*********************************************************************
+* Benvingut! Estas al Driver_CtjReglesAssociacio. Selecciona una de les seguents opcions:
+*  -1. Sortir
+*	0. Provar les Constructores
+*	1. Set una llista de ReglesAssociacio. 
+*	2. Consultar llista de ReglesAssociacio
+*	3. Consultar una Regla de Associacio
+*	4. Actualitzar una Regla d'Associacio
+*	5. Eliminar una Regla d'Associacio
+*********************************************************************
+Especifica la opcio a provar: 
+Escull lopcio que vols :
+ 1. Constructura per defecte. 
+ 2. Constructora amb un Conjunt de ReglesAssociacio. 
+Escull 1 o 2 
+Sha creat un CjtReglaAssociacio amb un Conjunt de ReglaAsscocio buit.
+--- Test finalitzat
+
+*********************************************************************
+* Benvingut! Estas al Driver_CtjReglesAssociacio. Selecciona una de les seguents opcions:
+*  -1. Sortir
+*	0. Provar les Constructores
+*	1. Set una llista de ReglesAssociacio. 
+*	2. Consultar llista de ReglesAssociacio
+*	3. Consultar una Regla de Associacio
+*	4. Actualitzar una Regla d'Associacio
+*	5. Eliminar una Regla d'Associacio
+*********************************************************************
+Especifica la opcio a provar: 
+Escull lopcio que vols :
+ 1. Constructura per defecte. 
+ 2. Constructora amb un Conjunt de ReglesAssociacio. 
+Escull 1 o 2 
+Introdueix el nombre de Regles dAssociacions que conte el CjtReglesAssociacio: 
+Introdueix l identificador de la Regla: 
+Introdueix el suport per la regla:  
+Introdueix la confianza per la regla:  
+Introdueix el numero de condicions que te la Regla:  
+Introdueix el nom de l atribut del conjunt de condicions de la Regla:  
+Introdueix el valor de l atribut del conjunt de condicions de la Regla:  
+Introdueix el nom de l atribut del conjunt de condicions de la Regla:  
+Introdueix el valor de l atribut del conjunt de condicions de la Regla:  
+Introdueix el nom de l atribut Consequent de la Regla:  
+Introdueix el valor de l atribut Consequent de la Regla:  
+Introdueix l identificador de la Regla: 
+Introdueix el suport per la regla:  
+Introdueix la confianza per la regla:  
+Introdueix el numero de condicions que te la Regla:  
+Introdueix el nom de l atribut del conjunt de condicions de la Regla:  
+Introdueix el valor de l atribut del conjunt de condicions de la Regla:  
+Introdueix el nom de l atribut Consequent de la Regla:  
+Introdueix el valor de l atribut Consequent de la Regla:  
+S ha creat un CjtReglaAssociacio amb el Conjunt de ReglaAsscocio
+--- Test finalitzat
+
+*********************************************************************
+* Benvingut! Estas al Driver_CtjReglesAssociacio. Selecciona una de les seguents opcions:
+*  -1. Sortir
+*	0. Provar les Constructores
+*	1. Set una llista de ReglesAssociacio. 
+*	2. Consultar llista de ReglesAssociacio
+*	3. Consultar una Regla de Associacio
+*	4. Actualitzar una Regla d'Associacio
+*	5. Eliminar una Regla d'Associacio
+*********************************************************************
+Especifica la opcio a provar: 
+Introdueix la quantitat de Regles d Associacio del nou llistat: 
+Introduccio de dades per la Regla Associacio #0:
+Introdueix l identificador de la Regla: 
+Introdueix el suport per la regla:  
+Introdueix la confianza per la regla:  
+Introdueix el numero de condicions que te la Regla:  
+Introdueix el nom de l atribut del conjunt de condicions de la Regla:  
+Introdueix el valor de l atribut del conjunt de condicions de la Regla:  
+Introdueix el nom de l atribut del conjunt de condicions de la Regla:  
+Introdueix el valor de l atribut del conjunt de condicions de la Regla:  
+Introdueix el nom de l atribut Consequent de la Regla:  
+Introdueix el valor de l atribut Consequent de la Regla:  
+Introduccio de dades per la Regla Associacio #1:
+Introdueix l identificador de la Regla: 
+Introdueix el suport per la regla:  
+Introdueix la confianza per la regla:  
+Introdueix el numero de condicions que te la Regla:  
+Introdueix el nom de l atribut del conjunt de condicions de la Regla:  
+Introdueix el valor de l atribut del conjunt de condicions de la Regla:  
+Introdueix el nom de l atribut Consequent de la Regla:  
+Introdueix el valor de l atribut Consequent de la Regla:  
+Introduccio de dades per la Regla Associacio #2:
+Introdueix l identificador de la Regla: 
+Introdueix el suport per la regla:  
+Introdueix la confianza per la regla:  
+Introdueix el numero de condicions que te la Regla:  
+Introdueix el nom de l atribut del conjunt de condicions de la Regla:  
+Introdueix el valor de l atribut del conjunt de condicions de la Regla:  
+Introdueix el nom de l atribut Consequent de la Regla:  
+Introdueix el valor de l atribut Consequent de la Regla:  
+La llista de ReglaAsscciacio esta actualitzada
+--- Test finalitzat
+
+ Regla Associacio  identificador = 3
+ Regla Associacio suport = 0.2
+ Regla Associacio confianza = 0.4
+ Regla Associacio Condicio : NomAtribut producte4 valorAtribut = true
+ Regla Associacio Condicio : NomAtribut producte5 valorAtribut = false
+ Regla Associacio Consequent : Nom producte6 valor = true
+
+ Regla Associacio  identificador = 3
+ Regla Associacio suport = 0.02
+ Regla Associacio confianza = 0.23
+ Regla Associacio Condicio : NomAtribut producte2 valorAtribut = false
+ Regla Associacio Consequent : Nom producte8 valor = true
+
+ Regla Associacio  identificador = 4
+ Regla Associacio suport = 0.7
+ Regla Associacio confianza = 0.9
+ Regla Associacio Condicio : NomAtribut producte7 valorAtribut = true
+ Regla Associacio Consequent : Nom producte8 valor = false
+
+--- Test finalitzat
+
+*********************************************************************
+* Benvingut! Estas al Driver_CtjReglesAssociacio. Selecciona una de les seguents opcions:
+*  -1. Sortir
+*	0. Provar les Constructores
+*	1. Set una llista de ReglesAssociacio. 
+*	2. Consultar llista de ReglesAssociacio
+*	3. Consultar una Regla de Associacio
+*	4. Actualitzar una Regla d'Associacio
+*	5. Eliminar una Regla d'Associacio
+*********************************************************************
+Especifica la opcio a provar: 
+ Regla Associacio  identificador = 3
+ Regla Associacio suport = 0.2
+ Regla Associacio confianza = 0.4
+ Regla Associacio Condicio : NomAtribut producte4 valorAtribut = true
+ Regla Associacio Condicio : NomAtribut producte5 valorAtribut = false
+ Regla Associacio Consequent : Nom producte6 valor = true
+
+ Regla Associacio  identificador = 3
+ Regla Associacio suport = 0.02
+ Regla Associacio confianza = 0.23
+ Regla Associacio Condicio : NomAtribut producte2 valorAtribut = false
+ Regla Associacio Consequent : Nom producte8 valor = true
+
+ Regla Associacio  identificador = 4
+ Regla Associacio suport = 0.7
+ Regla Associacio confianza = 0.9
+ Regla Associacio Condicio : NomAtribut producte7 valorAtribut = true
+ Regla Associacio Consequent : Nom producte8 valor = false
+
+--- Test finalitzat
+
+*********************************************************************
+* Benvingut! Estas al Driver_CtjReglesAssociacio. Selecciona una de les seguents opcions:
+*  -1. Sortir
+*	0. Provar les Constructores
+*	1. Set una llista de ReglesAssociacio. 
+*	2. Consultar llista de ReglesAssociacio
+*	3. Consultar una Regla de Associacio
+*	4. Actualitzar una Regla d'Associacio
+*	5. Eliminar una Regla d'Associacio
+*********************************************************************
+Especifica la opcio a provar: 
+Introdueix identificador de la Regla que vols consultar 
+ Regla Associacio  identificador = 4
+ Regla Associacio suport = 0.7
+ Regla Associacio confianza = 0.9
+ Regla Associacio Condicio : NomAtribut producte7 valorAtribut = true
+ Regla Associacio Consequent : NomAtribut producte8 valorAtribut = false
+
+--- Test finalitzat
+
+*********************************************************************
+* Benvingut! Estas al Driver_CtjReglesAssociacio. Selecciona una de les seguents opcions:
+*  -1. Sortir
+*	0. Provar les Constructores
+*	1. Set una llista de ReglesAssociacio. 
+*	2. Consultar llista de ReglesAssociacio
+*	3. Consultar una Regla de Associacio
+*	4. Actualitzar una Regla d'Associacio
+*	5. Eliminar una Regla d'Associacio
+*********************************************************************
+Especifica la opcio a provar: 
+Introdueix el identificador de la Regla Assocoiacio a modificar 
+Introdueix l identificador de la Regla: 
+Introdueix el suport per la regla:  
+Introdueix la confianza per la regla:  
+Introdueix el numero de condicions que te la Regla:  
+Introdueix el nom de l atribut del conjunt de condicions de la Regla:  
+Introdueix el valor de l atribut del conjunt de condicions de la Regla:  
+Introdueix el nom de l atribut Consequent de la Regla:  
+Introdueix el valor de l atribut Consequent de la Regla:  
+La Regla Associacio esta actualitzada
+--- Test finalitzat
+
+*********************************************************************
+* Benvingut! Estas al Driver_CtjReglesAssociacio. Selecciona una de les seguents opcions:
+*  -1. Sortir
+*	0. Provar les Constructores
+*	1. Set una llista de ReglesAssociacio. 
+*	2. Consultar llista de ReglesAssociacio
+*	3. Consultar una Regla de Associacio
+*	4. Actualitzar una Regla d'Associacio
+*	5. Eliminar una Regla d'Associacio
+*********************************************************************
+Especifica la opcio a provar: 
+ Regla Associacio  identificador = 3
+ Regla Associacio suport = 0.2
+ Regla Associacio confianza = 0.4
+ Regla Associacio Condicio : NomAtribut producte4 valorAtribut = true
+ Regla Associacio Condicio : NomAtribut producte5 valorAtribut = false
+ Regla Associacio Consequent : Nom producte6 valor = true
+
+ Regla Associacio  identificador = 3
+ Regla Associacio suport = 0.02
+ Regla Associacio confianza = 0.23
+ Regla Associacio Condicio : NomAtribut producte2 valorAtribut = false
+ Regla Associacio Consequent : Nom producte8 valor = true
+
+ Regla Associacio  identificador = 0
+ Regla Associacio suport = 0.5
+ Regla Associacio confianza = 0.6
+ Regla Associacio Condicio : NomAtribut producte10 valorAtribut = treu
+ Regla Associacio Consequent : Nom producte1 valor = false
+
+--- Test finalitzat
+
+*********************************************************************
+* Benvingut! Estas al Driver_CtjReglesAssociacio. Selecciona una de les seguents opcions:
+*  -1. Sortir
+*	0. Provar les Constructores
+*	1. Set una llista de ReglesAssociacio. 
+*	2. Consultar llista de ReglesAssociacio
+*	3. Consultar una Regla de Associacio
+*	4. Actualitzar una Regla d'Associacio
+*	5. Eliminar una Regla d'Associacio
+*********************************************************************
+Especifica la opcio a provar: 
+Introdueix el identificador de la Regla Assocoiacio a eliminar 
+La Regla Associacio amb idetificador 0 esta eliminat
+
+*********************************************************************
+* Benvingut! Estas al Driver_CtjReglesAssociacio. Selecciona una de les seguents opcions:
+*  -1. Sortir
+*	0. Provar les Constructores
+*	1. Set una llista de ReglesAssociacio. 
+*	2. Consultar llista de ReglesAssociacio
+*	3. Consultar una Regla de Associacio
+*	4. Actualitzar una Regla d'Associacio
+*	5. Eliminar una Regla d'Associacio
+*********************************************************************
+Especifica la opcio a provar: 
+ Regla Associacio  identificador = 3
+ Regla Associacio suport = 0.2
+ Regla Associacio confianza = 0.4
+ Regla Associacio Condicio : NomAtribut producte4 valorAtribut = true
+ Regla Associacio Condicio : NomAtribut producte5 valorAtribut = false
+ Regla Associacio Consequent : Nom producte6 valor = true
+
+ Regla Associacio  identificador = 3
+ Regla Associacio suport = 0.02
+ Regla Associacio confianza = 0.23
+ Regla Associacio Condicio : NomAtribut producte2 valorAtribut = false
+ Regla Associacio Consequent : Nom producte8 valor = true
+
+--- Test finalitzat
+
+*********************************************************************
+* Benvingut! Estas al Driver_CtjReglesAssociacio. Selecciona una de les seguents opcions:
+*  -1. Sortir
+*	0. Provar les Constructores
+*	1. Set una llista de ReglesAssociacio. 
+*	2. Consultar llista de ReglesAssociacio
+*	3. Consultar una Regla de Associacio
+*	4. Actualitzar una Regla d'Associacio
+*	5. Eliminar una Regla d'Associacio
+*********************************************************************
+Especifica la opcio a provar: 
+Introdueix el identificador de la Regla Assocoiacio a eliminar 
+ * ERROR: La Regla d'Associacio amb l'identificador donat no existeix dins del conjunt.
+
+*********************************************************************
+* Benvingut! Estas al Driver_CtjReglesAssociacio. Selecciona una de les seguents opcions:
+*  -1. Sortir
+*	0. Provar les Constructores
+*	1. Set una llista de ReglesAssociacio. 
+*	2. Consultar llista de ReglesAssociacio
+*	3. Consultar una Regla de Associacio
+*	4. Actualitzar una Regla d'Associacio
+*	5. Eliminar una Regla d'Associacio
+*********************************************************************
+Especifica la opcio a provar: 
+Introdueix el identificador de la Regla Assocoiacio a modificar 
+Introdueix l identificador de la Regla: 
+Introdueix el suport per la regla:  
+Introdueix la confianza per la regla:  
+Introdueix el numero de condicions que te la Regla:  
+Introdueix el nom de l atribut del conjunt de condicions de la Regla:  
+Introdueix el valor de l atribut del conjunt de condicions de la Regla:  
+Introdueix el nom de l atribut Consequent de la Regla:  
+Introdueix el valor de l atribut Consequent de la Regla:  
+ * ERROR: La Regla d'Associacio amb l'identificador donat no existeix dins del conjunt.
+--- Test finalitzat
+
+*********************************************************************
+* Benvingut! Estas al Driver_CtjReglesAssociacio. Selecciona una de les seguents opcions:
+*  -1. Sortir
+*	0. Provar les Constructores
+*	1. Set una llista de ReglesAssociacio. 
+*	2. Consultar llista de ReglesAssociacio
+*	3. Consultar una Regla de Associacio
+*	4. Actualitzar una Regla d'Associacio
+*	5. Eliminar una Regla d'Associacio
+*********************************************************************
+Especifica la opcio a provar: 
+Escull lopcio que vols :
+ 1. Constructura per defecte. 
+ 2. Constructora amb un Conjunt de ReglesAssociacio. 
+Escull 1 o 2 
+ERROR!!!!!!!!! Opcio INCORRECTE
+--- Test finalitzat
+
+*********************************************************************
+* Benvingut! Estas al Driver_CtjReglesAssociacio. Selecciona una de les seguents opcions:
+*  -1. Sortir
+*	0. Provar les Constructores
+*	1. Set una llista de ReglesAssociacio. 
+*	2. Consultar llista de ReglesAssociacio
+*	3. Consultar una Regla de Associacio
+*	4. Actualitzar una Regla d'Associacio
+*	5. Eliminar una Regla d'Associacio
+*********************************************************************
+Especifica la opcio a provar: 
+La opcio elegida no existe!
+
+*********************************************************************
+* Benvingut! Estas al Driver_CtjReglesAssociacio. Selecciona una de les seguents opcions:
+*  -1. Sortir
+*	0. Provar les Constructores
+*	1. Set una llista de ReglesAssociacio. 
+*	2. Consultar llista de ReglesAssociacio
+*	3. Consultar una Regla de Associacio
+*	4. Actualitzar una Regla d'Associacio
+*	5. Eliminar una Regla d'Associacio
+*********************************************************************
+Especifica la opcio a provar: 
+--- Test finalitzat
+

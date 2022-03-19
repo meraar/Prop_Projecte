@@ -1,0 +1,158 @@
+*********************************************************************
+* Benvingut! Estas al Driver_AtributString. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Prova les consultores del interval
+*	3. Provar si un valor es dins l'interval
+*	4. Prova dels setters de l'interval
+*********************************************************************
+ 
+1
+Prova de les constructores
+Indiqui la creadora que vol testejar:
+*	0. Constructora per defecte
+*	1. Constructora amb nom i limits
+ 
+Correcto
+*********************************************************************
+* Benvingut! Estas al Driver_AtributString. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Prova les consultores del interval
+*	3. Provar si un valor es dins l'interval
+*	4. Prova dels setters de l'interval
+*********************************************************************
+Selecciona la nova funcionalitat a provar 
+Prova de les constructores
+Indiqui la creadora que vol testejar:
+*	0. Constructora per defecte
+*	1. Constructora amb nom i limits
+ 
+* Constructora amb nom i limits
+Indiqui el nom de l'interval a crear: 
+Indiqui el limit superior de l'interval a crear: 
+Indiqui el limit inferior de l'interval a crear: 
+Indiqui si el interval inclou el limit superior:(true/false) 
+Indiqui si el interval inclou el limit inferior:(true/false) 
+Dades introduides -> Nom = AprovatPelat limit superior= 5.0 limit inferior= 5.0 igual al limit superior= true igual al limit inferior= false
+Dades de l'atribut -> Nom = AprovatPelat limit superior= 5.0 limit inferior= 5.0 igual al limit superior= true igual al limit inferior= true
+*********************************************************************
+* Benvingut! Estas al Driver_AtributString. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Prova les consultores del interval
+*	3. Provar si un valor es dins l'interval
+*	4. Prova dels setters de l'interval
+*********************************************************************
+Selecciona la nova funcionalitat a provar 
+Prova de les constructores
+Indiqui la creadora que vol testejar:
+*	0. Constructora per defecte
+*	1. Constructora amb nom i limits
+ 
+* Constructora amb nom i limits
+Indiqui el nom de l'interval a crear: 
+Indiqui el limit superior de l'interval a crear: 
+Indiqui el limit inferior de l'interval a crear: 
+Indiqui si el interval inclou el limit superior:(true/false) 
+Indiqui si el interval inclou el limit inferior:(true/false) 
+Dades introduides -> Nom = Aprovat limit superior= 5.0 limit inferior= 10.0 igual al limit superior= true igual al limit inferior= true
+Dades de l'atribut -> Nom = Aprovat limit superior= 10.0 limit inferior= 5.0 igual al limit superior= true igual al limit inferior= true
+*********************************************************************
+* Benvingut! Estas al Driver_AtributString. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Prova les consultores del interval
+*	3. Provar si un valor es dins l'interval
+*	4. Prova dels setters de l'interval
+*********************************************************************
+Selecciona la nova funcionalitat a provar 
+Prova de les constructores
+Indiqui la creadora que vol testejar:
+*	0. Constructora per defecte
+*	1. Constructora amb nom i limits
+ 
+* Constructora amb nom i limits
+Indiqui el nom de l'interval a crear: 
+Indiqui el limit superior de l'interval a crear: 
+Indiqui el limit inferior de l'interval a crear: 
+Indiqui si el interval inclou el limit superior:(true/false) 
+Indiqui si el interval inclou el limit inferior:(true/false) 
+Dades introduides -> Nom = Suspes limit superior= 5.0 limit inferior= 0.0 igual al limit superior= false igual al limit inferior= true
+Dades de l'atribut -> Nom = Suspes limit superior= 5.0 limit inferior= 0.0 igual al limit superior= false igual al limit inferior= true
+*********************************************************************
+* Benvingut! Estas al Driver_AtributString. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Prova les consultores del interval
+*	3. Provar si un valor es dins l'interval
+*	4. Prova dels setters de l'interval
+*********************************************************************
+Selecciona la nova funcionalitat a provar 
+Prova de les constructores
+Indiqui la creadora que vol testejar:
+*	0. Constructora per defecte
+*	1. Constructora amb nom i limits
+ 
+* Constructora amb nom i limits
+Indiqui el nom de l'interval a crear: 
+Indiqui el limit superior de l'interval a crear: 
+Indiqui el limit inferior de l'interval a crear: 
+Indiqui si el interval inclou el limit superior:(true/false) 
+Indiqui si el interval inclou el limit inferior:(true/false) 
+Dades introduides -> Nom = limitsMalIndicats limit superior= 0.0 limit inferior= 5.0 igual al limit superior= false igual al limit inferior= true
+Dades de l'atribut -> Nom = limitsMalIndicats limit superior= 5.0 limit inferior= 0.0 igual al limit superior= true igual al limit inferior= false
+*********************************************************************
+* Benvingut! Estas al Driver_AtributString. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Prova les consultores del interval
+*	3. Provar si un valor es dins l'interval
+*	4. Prova dels setters de l'interval
+*********************************************************************
+Selecciona la nova funcionalitat a provar 
+Prova de si un valor es dins l'interval:
+Creem un interval amb nom aprovat entre 5 i 10 ambdos inclosos
+Introdueix un valor per veure si hi es dins: 
+Esta 0 entre 5 i 10? false
+*********************************************************************
+* Benvingut! Estas al Driver_AtributString. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Prova les consultores del interval
+*	3. Provar si un valor es dins l'interval
+*	4. Prova dels setters de l'interval
+*********************************************************************
+Selecciona la nova funcionalitat a provar 
+Prova de si un valor es dins l'interval:
+Creem un interval amb nom aprovat entre 5 i 10 ambdos inclosos
+Introdueix un valor per veure si hi es dins: 
+Esta 5 entre 5 i 10? true
+*********************************************************************
+* Benvingut! Estas al Driver_AtributString. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Prova les consultores del interval
+*	3. Provar si un valor es dins l'interval
+*	4. Prova dels setters de l'interval
+*********************************************************************
+Selecciona la nova funcionalitat a provar 
+Prova d'afegir limits i nom de un interval
+Creem un interval anomenat aprovat de 5 a 10 ambdos inclosos
+Indiqui el nom a introduir 
+Indiqui el limit superior 
+Indiqui el limit inferior 
+Indiqui si el limit superior esta inclos 
+Indiqui si el limit inferior esta inclos 
+Ara introduim els limits a afegir: intervalNou
+Limits inicials: Limit superior: 3.0 Limit inferior: 1.0 Limit superior inclos? false Limit inferior inclos? true
+Limits actualitzats: Limit superior : 3.0 Limit inferior: 1.0 Limit superior inclos? false Limit inferior inclos? true
+*********************************************************************
+* Benvingut! Estas al Driver_AtributString. Selecciona una de les seguents opcions:
+*	0. Sortir
+*	1. Provar les Constructores
+*	2. Prova les consultores del interval
+*	3. Provar si un valor es dins l'interval
+*	4. Prova dels setters de l'interval
+*********************************************************************
+Selecciona la nova funcionalitat a provar 

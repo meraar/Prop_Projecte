@@ -1,0 +1,8 @@
+Carpeta d'executables.
+
+El fitxer prop.jar conte l'executable del programa. Per executar-lo, simplement utilitzar la comanda:
+  java -jar prop.jar
+
+A la carpeta jocs_prova trobareu els jocs de prova descrits al document de testing. Per mes informacio
+sobre que fan i perque s'han escollit aquests documents pels jocs de prova, consultar el document testing.pdf
+de la carpeta DOCS.

@@ -1,0 +1,134 @@
+Inicialitzant el registre amb la constructora per defecte...
+----- [Driver Registre] Test constructora per defecte. -----
+--- Crea un registre buit.
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter identificador del registre
+[2] Test setter identificador del registre
+[3] Test afegir atribut processat
+[4] Test getter llistat d'atributs
+[5] Test modificar atribut processat
+[6] Test eliminar atribut processat
+[7] Test existeix atribut processat
+[8] Test conte conjunt d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver Registre] Test afegir atribut. -----
+--- Afegeix un nou atribut al registre.
+Introdueix el nom de l'atribut: 
+Introdueix el valor de l'atribut: 
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter identificador del registre
+[2] Test setter identificador del registre
+[3] Test afegir atribut processat
+[4] Test getter llistat d'atributs
+[5] Test modificar atribut processat
+[6] Test eliminar atribut processat
+[7] Test existeix atribut processat
+[8] Test conte conjunt d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver Registre] Test afegir atribut. -----
+--- Afegeix un nou atribut al registre.
+Introdueix el nom de l'atribut: 
+Introdueix el valor de l'atribut: 
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter identificador del registre
+[2] Test setter identificador del registre
+[3] Test afegir atribut processat
+[4] Test getter llistat d'atributs
+[5] Test modificar atribut processat
+[6] Test eliminar atribut processat
+[7] Test existeix atribut processat
+[8] Test conte conjunt d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver Registre] Test afegir atribut. -----
+--- Afegeix un nou atribut al registre.
+Introdueix el nom de l'atribut: 
+Introdueix el valor de l'atribut: 
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter identificador del registre
+[2] Test setter identificador del registre
+[3] Test afegir atribut processat
+[4] Test getter llistat d'atributs
+[5] Test modificar atribut processat
+[6] Test eliminar atribut processat
+[7] Test existeix atribut processat
+[8] Test conte conjunt d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver Registre] Test afegir atribut. -----
+--- Afegeix un nou atribut al registre.
+Introdueix el nom de l'atribut: 
+Introdueix el valor de l'atribut: 
+ * ERROR: Ja existeix un atribut amb aquest nom dins del registre.
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter identificador del registre
+[2] Test setter identificador del registre
+[3] Test afegir atribut processat
+[4] Test getter llistat d'atributs
+[5] Test modificar atribut processat
+[6] Test eliminar atribut processat
+[7] Test existeix atribut processat
+[8] Test conte conjunt d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver Registre] Test modificar atribut. -----
+--- Modifica un atribut dins del registre.
+Introdueix el nom de l'atribut a modificar: 
+Introdueix el nou valor de l'atribut: 
+ * ERROR: No existeix cap atribut amb el nom donat dins del registre.
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter identificador del registre
+[2] Test setter identificador del registre
+[3] Test afegir atribut processat
+[4] Test getter llistat d'atributs
+[5] Test modificar atribut processat
+[6] Test eliminar atribut processat
+[7] Test existeix atribut processat
+[8] Test conte conjunt d'atributs
+
+Especifica l'opcio a provar: 
+----- [Driver Registre] Test eliminar atribut. -----
+--- Elimina un atribut del registre.
+Introdueix el nom de l'atribut a eliminar: 
+ * ERROR: No existeix cap atribut amb el nom donat dins del registre.
+--- Test finalitzat
+
+ === Menu del driver ===
+[-1] Sortir del driver
+[0] Test constructora
+[1] Test getter identificador del registre
+[2] Test setter identificador del registre
+[3] Test afegir atribut processat
+[4] Test getter llistat d'atributs
+[5] Test modificar atribut processat
+[6] Test eliminar atribut processat
+[7] Test existeix atribut processat
+[8] Test conte conjunt d'atributs
+
+Especifica l'opcio a provar: 
